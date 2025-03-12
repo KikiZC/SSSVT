@@ -1,8 +1,8 @@
 # 10. Lekce
 
-| Rod |          Německá verze           |           Česká verze           |
-|:---:|:--------------------------------:|:-------------------------------:|
-| Der |            Auslander             |             Cizinec             |
+| Rod |          Německá verze           |           Česká verze           |  
+| :-: | :------------------------------: | :-----------------------------: |
+| Der |            Auslander             |             Cizinec             |     
 | Der |              Fremde              |       Cizí osoba, cizinec       |
 |     |            gemeinsam             |            společně             |
 |     |        Ich war noch nie.         |     Nikdy jsem ještě nebyl      |
@@ -30,6 +30,6 @@
 | Der |             Schulweg             |         Cesta do školy          |
 |     |     Ich hatte einen Schaden      |        Měl jsem poruchu         |
 | Die |              Panne               |             Porucha             |
-|     |  Ich war die ganze Zeit im Bett  |  Byl jsem celou dobu v posteli  | 
+|     |  Ich war die ganze Zeit im Bett  |  Byl jsem celou dobu v posteli  |
 
 ---
