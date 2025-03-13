@@ -1,3 +1,21 @@
+# Präteritum
+
+| Rod | Německá verze |   Česká verze   |
+|:---:|:-------------:|:---------------:|
+|     |   ech ging    |   já jsem šel   |
+|     |    er kam     |    on přišel    |
+|     |    sie sah    |   ona vyděla    |
+|     |   sie aßen    |    oni jedli    |
+|     |  wir tranken  |  my jsme pily   |
+|     |  Sie liefen   | Vy jste běželi  |
+|     |   sie hatte   |    ona měla     |
+|     |   du warst    |   ty jsi jedl   |
+|     |   er wurde    |   on se stal    |
+|     |   ihr kamt    | vy jste přišli  |
+|     |   ihr wart    |  vy jste byli   |
+|     | wir sprachen  | my jsme mluvili |
+
+---
 # 10. Lekce
 
 | Rod |          Německá verze           |           Česká verze           |

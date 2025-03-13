@@ -1,0 +1,36 @@
+.theme-dark table {
+    border-collapse:separate;
+    width: 100%;
+    border: 0px solid #444; /* Jemný okraj */
+    background: #222; /* Tmavé pozadí */
+    border-radius: 8px;
+  }
+  
+  .theme-dark th, .theme-dark td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: left;
+    color: #ddd;
+  }
+  
+  .theme-dark th {
+    background: #333 !important; /* Hlavička sloupců tmavší */
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .theme-dark thead tr:first-child th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  .theme-dark thead tr:first-child th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  .theme-dark tbody tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  .theme-dark tbody tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }

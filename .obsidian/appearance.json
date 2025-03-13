@@ -2,6 +2,8 @@
   "accentColor": "#009926",
   "textFontFamily": "",
   "enabledCssSnippets": [
-    "table"
+    "table",
+    "indents",
+    "Wocabee"
   ]
 }
