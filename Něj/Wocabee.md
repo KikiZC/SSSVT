@@ -7,9 +7,9 @@
 |     |    sie sah    |   ona vyděla    |
 |     |   sie aßen    |    oni jedli    |
 |     |  wir tranken  |  my jsme pily   |
-|     |  Sie liefen   |  Vy jste běžel  | 
+|     |  Sie liefen   |  Vy jste běžel  |
 |     |   sie hatte   |    ona měla     |
-|     |   du warst    |   ty jsi jedl   |
+|     |   du warst    |   ty jsi byl    |
 |     |   er wurde    |   on se stal    |
 |     |   ihr kamt    | vy jste přišli  |
 |     |   ihr wart    |  vy jste byli   |
