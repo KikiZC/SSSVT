@@ -4,28 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "9afc5d01787f22ac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "78889351ed496bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Něj/Template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Template"
-            }
-          }
-        ]
-      },
-      {
         "id": "480007382a7323dd",
         "type": "tabs",
+        "dimension": 58.63453815261044,
         "children": [
           {
             "id": "341232b2edada038",
@@ -47,16 +28,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Něj/Template.md",
-                "mode": "preview",
-                "source": false
+                "file": "Něj/Tabulkový papír.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Template"
+              "title": "Tabulkový papír"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "f081c5c09d42a8c6",
+        "type": "tabs",
+        "dimension": 41.365461847389554,
+        "children": [
+          {
+            "id": "a4500ff4a9c82e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Něj/Tabulkový papír.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tabulkový papír"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "997bec8d8bd24031",
@@ -129,8 +131,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Něj/Wocabee.md",
-                "collapseAll": false,
+                "file": "Něj/Tabulkový papír.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -139,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro Wocabee"
+              "title": "Zpětné odkazy pro Tabulkový papír"
             }
           },
           {
@@ -148,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Něj/Wocabee.md",
+                "file": "Něj/Tabulkový papír.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Odchozí odkazy z Wocabee"
+              "title": "Odchozí odkazy z Tabulkový papír"
             }
           },
           {
@@ -201,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +218,9 @@
   },
   "active": "68417feff79c9b7a",
   "lastOpenFiles": [
-    "Něj/Wocabee.md",
     "Něj/Template.md",
+    "Něj/Tabulkový papír.md",
+    "Něj/Wocabee.md",
     "README.md",
     "LICENSE.md"
   ]
