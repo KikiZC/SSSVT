@@ -1,31 +1,31 @@
 # Sport
 
-| Rod  | Německá verze         | Česká verze           |
-|:----:|:---------------------:|:---------------------:|
-| Der  | Beachvolleyball       | Plážový volejbal      |
-| Der  | Kanusport             | Kanoistika            |
-| Der  | Radsport              | Cyklistika            |
-| Das  | Rafting               | Rafting               |
-| Das  | Wasserskifahren       | Vodní lyžování        |
-| Das  | Surfen                | Surfování             |
-| Das  | Tauchen               | Potápění              |
-| Das  | Schnorcheltauchen     | Šnorchlování          |
-| Das  | Golf                  | Golf                  |
-| Der  | Rudersport            | Veslování             |
-| Das  | Segeln                | Plachtění             |
-| Das  | Schwimmen             | Plavání               |
-| Der  | Spieler               | Hráč                  |
-| Der  | Athlet                | Atlet                 |
-| Der  | Schwimmer             | Plavec                |
-| Der  | Schütze               | Střelec               |
-| Der  | Radfahrer             | Cyklista              |
-| Der  | Wettkämpfer           | Závodník              |
-| Der  | Eishockeyspieler      | Hokejista             |
-| Der  | Schlittschuhläufer    | Bruslař               |
-| Der  | Skifahrer             | Lyžař                 |
-| Der  | Bergsteiger           | Horolezec             |
-| Der  | Boxer                 | Boxer                 |
-| Der  | Läufer                | Běžec                 |
+| Rod |   Německá verze    |   Česká verze    |
+|:---:|:------------------:|:----------------:|
+| Der |  Beachvolleyball   | Plážový volejbal |
+| Der |     Kanusport      |    Kanoistika    |
+| Der |      Radsport      |    Cyklistika    |
+| Das |      Rafting       |     Rafting      |
+| Das |  Wasserskifahren   |  Vodní lyžování  |
+| Das |       Surfen       |    Surfování     |
+| Das |      Tauchen       |     Potápění     |
+| Das | Schnorcheltauchen  |   Šnorchlování   |
+| Das |        Golf        |       Golf       |
+| Der |     Rudersport     |    Veslování     |
+| Das |       Segeln       |    Plachtění     |
+| Das |     Schwimmen      |     Plavání      |
+| Der |      Spieler       |       Hráč       |
+| Der |       Athlet       |      Atlet       |
+| Der |     Schwimmer      |      Plavec      |
+| Der |      Schütze       |     Střelec      |
+| Der |     Radfahrer      |     Cyklista     |
+| Der |    Wettkämpfer     |     Závodník     |
+| Der |  Eishockeyspieler  |    Hokejista     |
+| Der | Schlittschuhläufer |     Bruslař      |
+| Der |     Skifahrer      |      Lyžař       |
+| Der |    Bergsteiger     |    Horolezec     |
+| Der |       Boxer        |      Boxer       |
+| Der |       Läufer       |      Běžec       |
 
 ---
 # Präteritum

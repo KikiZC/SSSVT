@@ -6,7 +6,7 @@
       {
         "id": "480007382a7323dd",
         "type": "tabs",
-        "dimension": 57.88152610441767,
+        "dimension": 57.88152610441766,
         "children": [
           {
             "id": "341232b2edada038",
@@ -15,34 +15,19 @@
               "type": "markdown",
               "state": {
                 "file": "Něj/Wocabee.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Wocabee"
             }
-          },
-          {
-            "id": "68417feff79c9b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Něj/Slovíčka/Dort.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dort"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1b530d00e12a3421",
         "type": "tabs",
-        "dimension": 42.11847389558233,
+        "dimension": 42.11847389558234,
         "children": [
           {
             "id": "9eccce57d65f00a0",
@@ -145,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Něj/Slovíčka/Dort.md",
+                "file": "Něj/Wocabee.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +140,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro Dort"
+              "title": "Zpětné odkazy pro Wocabee"
             }
           },
           {
@@ -229,14 +214,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68417feff79c9b7a",
+  "active": "341232b2edada038",
   "lastOpenFiles": [
+    "Bez názvu.canvas",
+    "Něj/Wocabee.md",
     "Něj/Slovíčka/Co máme umět.md",
     "Něj/Slovíčka/Dort.md",
+    "ČJL/Renesance.md",
+    "CODEOWNERS",
     "Něj/Tabulkový papír.md",
     "Něj/Slovíčka",
     "Něj/Template.md",
-    "Něj/Wocabee.md",
     "README.md",
     "LICENSE.md"
   ]
