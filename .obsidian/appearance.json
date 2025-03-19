@@ -1,9 +1,12 @@
 {
-  "accentColor": "#009926",
+  "accentColor": "#0f8000",
   "textFontFamily": "",
   "enabledCssSnippets": [
     "table",
     "indents",
-    "Wocabee"
-  ]
+    "Wocabee",
+    "timeline"
+  ],
+  "showViewHeader": true,
+  "showRibbon": true
 }
