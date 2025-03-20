@@ -2,10 +2,10 @@
 
 ## 🏛 Život  
 - **Narození:** Rok, Místo  
-- **Úmrtí:** Rok, Místo  
+	- **Úmrtí:** Rok, Místo  
 - **Vzdělání:**  
-- **Povolání:**  
-- **Zajímavosti:**  
+	- **Povolání:**  
+		- **Zajímavosti:**  
 
 ## 📚 Tvorba  
 ### 📖 Významná díla  
