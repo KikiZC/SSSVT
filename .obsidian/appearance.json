@@ -5,7 +5,8 @@
     "table",
     "indents",
     "Wocabee",
-    "timeline"
+    "timeline",
+    "bullet-colors"
   ],
   "showViewHeader": true,
   "showRibbon": true
