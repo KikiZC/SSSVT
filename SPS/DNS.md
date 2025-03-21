@@ -1,138 +1,41 @@
-## Základní konfigurace
-Balíček: bind9
+Slouží k překladu doménových jmen na IP adresy a naopak. Skládá se z dopředné a zpětné zóny.
 
-1)      Nastavit pevnou ip - nmtui
+## Autoritativní vs neautoritativní server
 
-2)      V /etc/named.conf:
+Autoritativní – v mojí síti, ručím za záznamy, správce své zóny
 
-zde si definujeme adresu serveru
-```bash
-listen-on port 53 { 50.20.30.1; };
-```
-zde si definujeme ze které sítě se můžeme ptát, popř. any => můžeme se ptát odkudkoliv
-```bash
-allow-query { 50.20.30.0/24; any; }
-```
-poté si dole nadefinujeme svoje zóny
-```bash
-zone "jdeto.sps" IN {
-	type master;
-	file "dopred";
-}
-```
-```bash
-zone "30.20.50.in-addr.arpa" IN {
-	type master;
-	file "zpet";
-}
-```
+Neautoritativní – spravuji dns pro někoho, záznamy z jiné sítě – neručím za záznamy
 
-4)      Ve /var/named si zkopírujeme named.localhost a přejmenujeme na jmeno které jsme napsali ve 3)
+## Primární vs sekundární server
 
-5)      **POZOR zde je třeba nastavit práva k souboru na 0777**
+Sekundární – rozložení zátěže, záloha v případě výpadku primáru, nelze měnit záznamy
 
-6)    	konfigurační soubor zóny
+Primární – data o zóně, slouží k editaci a změnám
 
-dopředná:
-```bash
-$TTL 1D
-@	IN	SOA jdeto.sps. admin.jdeto.sps. (
-							1		; serial
-							1D		; refresh
-							1H		; retry
-							1W		; expire							
-							3H)		; minimum
-		NS	jdeto.sps.
-		A	50.20.30.1
-ano		A	50.20.30.2
-www		CNAME	jdeto.sps.
-```
-zpětná:
-```bash
-$TTL 1D
-@	IN	SOA 30.20.50.in-addr.arpa admin.jdeto.sps. (
-							1		; serial
-							1D		; refresh
-							1H		; retry
-							1W		; expire							
-							3H)		; minimum
-		NS	jdeto.sps.
-		PTR	jdeto.sps.
-2		PTR ano.jdeto.sps.
-```
+## Dopředná vs zpětná zóna
 
-7)      Otevřeme si resolv.conf, zde nastavíme nameserver na nas DNS
-```bash
-nameserver 50.20.30.1
-```
-**Po rebootu je třeba tento soubor upravit znovu**
+Dopředná přiřazuje JMÉNO k IP
 
-## Konfigurace sekundárního serveru
-### Na sekundáru
-1)      Nastavit pevnou ip - nmtui
+Zpětná přiřazuje IP ke JMÉNU
 
-2)      V /etc/named.conf:
+Sériové číslo v souboru zóny je kvůli synchronizaci se sekundárním serverem, ten se pouze podívá, zda je jeho sériové číslo stejné, není-li načte znovu zónu
 
-zde si definujeme adresu serveru
-```bash
-listen-on port 53 { 50.20.30.1; };
-```
-zde si definujeme ze které sítě se můžeme ptát, popř. any => můžeme se ptát odkudkoliv
-```bash
-allow-query { 50.20.30.0/24; any; }
-```
-poté si dole nadefinujeme svoje zóny
-```bash
-zone "jdeto.sps" IN {
-	type slave;
-	masters { 50.20.30.1; };
-	file "dopred";
-}
-```
-```bash
-zone "30.20.50.in-addr.arpa" IN {
-	type slave;
-	masters { 50.20.30.1; };
-	file "zpet";
-}
-```
+S každou změnou zóny se MUSÍ změnit sériové číslo zóny, přes gui se mění samo
 
-### Na primárním
-3)      V /etc/named.conf:
+## Forwardovací server
 
-upravíme soubor zóny
-```bash
-zone "jdeto.sps" IN {
-	type master;
-	file "dopred";
-	allow-transfer { 50.20.30.2; };
-	notify yes;
-}
-```
-```bash
-zone "30.20.50.in-addr.arpa" IN {
-	type master;
-	file "zpet";
-	allow-transfer { 50.20.30.2; };
-	notify yes;
-}
-```
+Když to nezná, pošle to dál
 
-### Na obou
-3)      Vypneme firewall:
+Kam, to má nastaveno
 
-`systemctl stop firewalld.service`
+Nemá svoje vlastní zóny
 
-3)      Postupně restartujeme službu named:
-	
-	První na primárním
-	`systemctl restart named.service`
-	
-	Poté na sekundárním
-	`systemctl restart named.service`
+## Cachovací server
 
-3)      Nakonec příkazem `nslookup` ověříme funkčnost
+Funguje, jako forwardovací
 
+Ale pamatuje si záznamy, pozor – Musí umět zapomínat (Alzheimer)
 
+Poprvé to nezná, takže se zeptá dalšího a zapíše si při cestě zpět
 
-
+Při dalším dotazu se podívá do cache a odpoví+

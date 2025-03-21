@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPS/DHCP.md",
-                "mode": "source",
-                "source": true
+                "file": "SPS/Linux/Procesy.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "DHCP"
+              "title": "Procesy"
             }
           }
         ]
@@ -184,6 +184,17 @@
   "active": "341232b2edada038",
   "lastOpenFiles": [
     "SPS/Zálohování.md",
+    "SPS/Linux/Procesy.md",
+    "SPS/obr/cron.png",
+    "SPS/Linux/DHCP.md",
+    "SPS/Linux/RAID.md",
+    "SPS/Linux/Disky.md",
+    "SPS/Linux/Práva.md",
+    "SPS/DNS.md",
+    "SPS/Linux",
+    "SPS/Šifrování.md",
+    "SPS/Směrování.md",
+    "SPS/Linux/DNS Linux.md",
     "SPS/DHCP.md",
     "SPS/obr/zalohovani.png",
     "SPS/obr",
@@ -205,17 +216,7 @@
     "ČJL/Literární směry/Literární moderna.md",
     "ČJL/Literární směry/Preromantismus a romantismus.md",
     "ČJL/Literární směry/Klasicismus a osvícenství.md",
-    "ČJL/Literární směry/Humanismus.md",
-    "ČJL/Literární směry/Renesance.md",
-    "ČJL/Literární směry/Středověk.md",
-    "Templates/Wocabee tabulka.md",
     "ČJL/Literární směry",
-    "Templates/Skloňovací tabulka.md",
-    "Něj/Template.md",
-    "Něj/Tabulkový papír.md",
-    "Templates/Spisovatel.md",
-    "Templates/Timeline.md",
-    "Něj/Slovíčka/Dort.md",
     "Templates",
     "Bez názvu.canvas",
     "CODEOWNERS",
