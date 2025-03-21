@@ -6,26 +6,27 @@
       {
         "id": "480007382a7323dd",
         "type": "tabs",
-        "dimension": 48.29317269076305,
         "children": [
           {
-            "id": "341232b2edada038",
+            "id": "ece69b61830e89ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Něj/Wocabee.md",
+                "file": "Templates/Wocabee tabulka.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wocabee"
-            }
+              "title": "Wocabee tabulka"
+            },
+            "group": "7c91e1ed528f9f2b"
+
           }
         ]
       },
       {
-        "id": "1b530d00e12a3421",
+        "id": "31749452c636514c",
         "type": "tabs",
         "dimension": 51.70682730923695,
         "children": [
@@ -95,7 +96,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Průzkumník souborů"
+              "title": "Files"
             }
           },
           {
@@ -217,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,6 +266,8 @@
     "Něj/Slovíčka/Dort.md",
     "Templates",
     "Něj/Wocabee.md",
+    "SQL",
+    "Templates",
     "Bez názvu.canvas",
     "CODEOWNERS",
     "Něj/Slovíčka"
