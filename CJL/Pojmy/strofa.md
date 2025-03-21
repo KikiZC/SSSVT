@@ -1,0 +1,2 @@
+**Strofa** (česky **sloka**) je dílčí útvar ve výstavbě básně. 
+Je složena z několika po sobě následujících veršů (výjimečně může být strofa jednoveršová) a představuje obvykle myšlenkový a rytmický celek.
