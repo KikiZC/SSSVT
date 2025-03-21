@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Něj/Preteritum (Jednoduchý minulí čas).md",
+                "file": "Templates/Wocabee tabulka.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Preteritum (Jednoduchý minulí čas)"
+              "title": "Wocabee tabulka"
             },
             "group": "7c91e1ed528f9f2b"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Něj/Preteritum (Jednoduchý minulí čas).md",
+                "file": "Templates/Wocabee tabulka.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Preteritum (Jednoduchý minulí čas)"
+              "title": "Wocabee tabulka"
             },
             "group": "7c91e1ed528f9f2b"
           }
@@ -206,6 +206,12 @@
   },
   "active": "ece69b61830e89ec",
   "lastOpenFiles": [
+    "Templates/Timeline.md",
+    "Templates/Spisovatel.md",
+    "Templates/Skloňovací tabulka.md",
+    "SQL/Triggers.md",
+    "Templates/Wocabee tabulka.md",
+    "Něj/Preteritum (Jednoduchý minulí čas).md",
     "Něj/Template.md",
     "Něj/přítomní čas (Präsens).md",
     "ČJL/Literární směry/Středověk.md",
@@ -225,14 +231,8 @@
     "ČJL/Literární směry/Absurdní drama.md",
     "ČJL/Literární směry",
     "ČJL/Literární směry - root.md",
-    "Templates/Wocabee tabulka.md",
-    "Templates/Skloňovací tabulka.md",
     "Něj/Tabulkový papír.md",
     "Něj/Wocabee.md",
-    "Něj/Slovíčka/Wortschatz 10 Lektion.md",
-    "Něj/Preteritum (Jednoduchý minulí čas).md",
-    "SQL/Triggers.md",
-    "SQL/Transakce.md",
     "SQL",
     "Templates",
     "Bez názvu.canvas",
