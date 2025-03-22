@@ -1,5 +1,6 @@
 {
   "showLineNumber": true,
   "showInlineTitle": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

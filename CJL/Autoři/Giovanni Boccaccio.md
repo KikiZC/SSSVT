@@ -4,14 +4,14 @@
 - **Narození:** 1313. Toskánsko  
 	- **Úmrtí:** 1375, Certaldo
 
-- přítel [[FrancescoPetrarca|Petrarcy]]
+- přítel [[Francesco Petrarca|Petrarcy]]
 - studoval práva (ve svých dílech později právníky nazývá hlupáky)
 - jeho učenost mu vynesla mnohé funkce
 - v závěru života byl nucen se zřeknout svých děl
 - považován za zakladatele renesanční [[novela|novely]]
 ## 📚 Tvorba  
 Do roku 1348 psal latinsky, poté italsky (Dekameron)
-Napsal [[DanteAlighieri|Dantův]] životopis
+Napsal [[Dante Alighieri|Dantův]] životopis
 ### 📖 Významná díla  
 
 #### Dekameron

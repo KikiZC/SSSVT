@@ -4,7 +4,7 @@
 
 - [ ] Středověk
 
-- [x] Renesance a humanismus
+- [ ] Renesance a humanismus
 
 - [ ] Baroko
 
@@ -73,11 +73,11 @@
 
 - [x] GIOVANNI BOCCACCIO
 
-- [ ] FRANÇOIS VILLON
+- [x] FRANÇOIS VILLON
 
-- [ ] MIGUEL DE CERVANTES
+- [x] MIGUEL DE CERVANTES
 
-- [ ] WILLIAM SHAKESPEARE
+- [x] WILLIAM SHAKESPEARE
 
 - [ ] MOLIÈRE
 
