@@ -1,4 +1,5 @@
 {
   "showLineNumber": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "promptDelete": false
 }
