@@ -1,4 +1,4 @@
-Funkce je prvek v SQL který umožnuje spouštět část kódu, přímat vstup od uživatele, a vracet proměnou podle naších potřeb 
+Funkce je prvek v SQL který umožnuje spouštět část kódu, příjmat vstup od uživatele, a vracet proměnou podle naších potřeb 
 - neumí provádět komplikovanější operace 
 - používá se spíše pro výpočet abyhom nemusely psát vzorečky v dotazech furt dokola\
 
