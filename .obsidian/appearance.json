@@ -9,5 +9,7 @@
     "bullet-colors"
   ],
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSizeAction": true,
+  "baseFontSize": 30
 }
