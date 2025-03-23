@@ -15,3 +15,7 @@
 - chce tvořit atmosféru
 - minulost (hrady, zámky)
 - národní tradice
+
+## Autoři
+### [[George Gordon Byron]]
+
