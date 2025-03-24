@@ -9,7 +9,8 @@ zrušení automatického zapínání
 
 
 # Česká klávesnice
-zmněna 
+změna 
 
 	loadkeys cz
+
 
