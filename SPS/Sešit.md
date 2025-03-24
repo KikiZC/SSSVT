@@ -24,4 +24,32 @@ content: [[Procesy#Příkaz at]]
 date: 119, 120
 title: Procesy
 content: [[Procesy]]
+
+date: 117, 118
+title: Rekapitulace písemky, Zálohování
+content: [[Zálohování#Je dobrá praxe]]
+
+date: 115, 116
+title: Zálohování
+content: [[Zálohování]]
+
+date: 113, 114
+title: DHCP, test
+content: [[DHCP]]
+
+date: 111, 112
+title: DHCP
+content: [[DHCP]]
+
+date: 109, 110
+title: RAID, fstab, práva
+content: [[RAID]], [[Práva]]
+
+date: 107, 108
+title: RAID, fstab, práva
+content: [[RAID]], [[Práva]]
+
+date: 102, 103
+title: RAID, test síťovky
+content: [[RAID]]
 ```
