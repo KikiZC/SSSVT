@@ -119,11 +119,11 @@ zone "30.20.50.in-addr.arpa" IN {
 ```
 
 ### Na obou
-3)      Vypneme firewall:
+1)      Vypneme firewall:
 
-`systemctl stop firewalld.service`
+	systemctl stop firewalld.service
 
-3)      Postupně restartujeme službu named:
+2)      Postupně restartujeme službu named:
 	
 	První na primárním
 	`systemctl restart named.service`
@@ -132,7 +132,3 @@ zone "30.20.50.in-addr.arpa" IN {
 	`systemctl restart named.service`
 
 3)      Nakonec příkazem `nslookup` ověříme funkčnost
-
-
-
-
