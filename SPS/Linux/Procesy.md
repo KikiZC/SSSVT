@@ -26,12 +26,6 @@ Pozastavený – Sleeping – CTRL+Z
 
 popř. Připravený - proces čeká na input tj. např. spuštění
 
-Téma: Procesy
-
-Číslo: 121, 122
-
-Datum: 14.03.2025
-
 ## Spouštění souborů
 
 Jednou, teď - ./
