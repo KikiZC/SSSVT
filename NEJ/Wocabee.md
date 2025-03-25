@@ -1,5 +1,6 @@
 # Sport
 
+## Balíček 1
 | Rod |   Německá verze    |   Česká verze    |
 |:---:|:------------------:|:----------------:|
 | Der |  Beachvolleyball   | Plážový volejbal |
@@ -14,6 +15,10 @@
 | Der |     Rudersport     |    Veslování     |
 | Das |       Segeln       |    Plachtění     |
 | Das |     Schwimmen      |     Plavání      |
+
+## Balíček 2
+| Rod |   Německá verze    |   Česká verze    |
+|:---:|:------------------:|:----------------:|
 | Der |      Spieler       |       Hráč       |
 | Der |       Athlet       |      Atlet       |
 | Der |     Schwimmer      |      Plavec      |
