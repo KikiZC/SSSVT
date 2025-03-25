@@ -1,0 +1,8 @@
+- schon = už, již    
+- noch = ještě     
+- noch nich = ještě ne   
+- manchmal = někdy, občas 
+- und dann = apotom
+- danach = poté
+- später = později
+- 
