@@ -1,5 +1,5 @@
-|  Slovíčko   | (Německy) | (Česky)  |     |
-|:-----------:|:---------:|:--------:|:---:|
-|     ich     |           |   wir    |     |
-|     du      |           |   ihr    |     |
-| er, sie, es |           | sie, Sie |     |
+|             | Jednotné |          | Množné | 
+|:-----------:|:--------:|:--------:|:------:|
+|     ich     |          |   wir    |        |
+|     du      |          |   ihr    |        |
+| er, sie, es |          | sie, Sie |        |

@@ -8,50 +8,21 @@ požívá se v
 
 ## 1. vybraná nepravidelná slovesa
 
-### Sein - být 
+- Sein - být => [[Waren - byl]]
 
-|           | Jednotné |         | Množné |
-|:---------:|:--------:|:-------:|:------:|
-|    Ich    |   var    |   Wir   | varen  |
-|    Du     |  varst   |   Ihr   |  vart  |
-| Er/Sie/Es |   var    | Sie/sie | varen  |
+- Haben - mít => [[Hatten - měl]]
 
-
-### Haben - mít 
-
-
-|           | Jednotné |         | Množné |
-|:---------:|:--------:|:-------:|:------:|
-|    Ich    |  hatte   |   Wir   | hatten |
-|    Du     | hattest  |   Ihr   | hattet |
-| Er/Sie/Es |  hatte   | Sie/sie | hatten |
-
-### Werden - stát se 
-
-
-|           | Jednotné |         | Množné |
-|:---------:|:--------:|:-------:|:------:|
-|    Ich    |  wurde   |   Wir   | wurden |
-|    Du     | wurdest  |   Ihr   | wurdet |
-| Er/Sie/Es |  wurde   | Sie/sie | wurden |
-
+- Werden - stát se => [[Wurden - stát se]]
 
 ## 2.pravidelná slovesa
 
 jsou například slovesa: Spilen, machen, kochen
 
-ve slovesech odtrháváme příponu a přidáváme univerzální předponu **-de**
+ve slovesech odtrháváme příponu a přidáváme univerzální předponu **-te**
 poznámka přípona při skolonování furt zustáva a jde na novou příponu
 
-### mach,en -> machde
+např: [[Machten - dělat]]
 
-PŘ
-
-|           | Jednotné |         | Množné  |
-|:---------:|:--------:|:-------:|:-------:|
-|    Ich    |  machde  |   Wir   | machden |
-|    Du     | machdest |   Ihr   | machdet |
-| Er/Sie/Es |  machde  | Sie/sie | machden |
 
 
 ## 3. způsobová slovesa ([[Modal verben]])
