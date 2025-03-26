@@ -122,8 +122,12 @@ zone "30.20.50.in-addr.arpa" IN {
 1)      Vypneme firewall:
 
 	systemctl stop firewalld.service
+	
+2)      zařídíme aby se znovu nezapínal po restartu
 
-2)      Postupně restartujeme službu named:
+	systemctl disable firewalld.service
+	
+3)      Postupně restartujeme službu named:
 	
 	První na primárním
 	`systemctl restart named.service`
