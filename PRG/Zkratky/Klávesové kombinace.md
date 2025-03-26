@@ -1,0 +1,9 @@
+`ALT-GR + w` = `|`
+`ALT-GR + ů` = `$`
+`ALT-GR + š` = `^`
+`ALT-GR + C` = `&`
+`ALT-GR + f` = `[`
+`ALT-GR + g` = `]`
+`ALT-GR + b` = `{`
+`ALT-GR + n` = `}`
+`ALT-GR + v` = `@`
