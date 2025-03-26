@@ -68,6 +68,11 @@ nameserver 50.20.30.1
 **Po rebootu je třeba tento soubor upravit znovu**
 
 ## Konfigurace sekundárního serveru
+- při přidání záznamu do zóny je nutno změnit serial
+```bash
+	1		; serial
+```
+- v opačném případě se zóna znovu nepřenese a sekundární server nebude znát nové záznamy
 ### Na sekundáru
 1)      Nastavit pevnou ip - nmtui
 
@@ -118,6 +123,10 @@ zone "30.20.50.in-addr.arpa" IN {
 }
 ```
 
+při více adresách stačí přidat se středníkem další
+```bash
+allow-transfer { 50.20.30.2; 50.20.30.3; };
+```
 ### Na obou
 1)      Vypneme firewall:
 
