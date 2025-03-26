@@ -27,6 +27,7 @@ Díky, že chceš přispět do tohoto repozitáře! Aby byl projekt férový a f
 ✅ Vybrat si **minimálně jeden předmět**, kde budeš kontrolovat zápisky  
 ✅ Při každé změně daného předmětu **provést revizi a schválit/odmítnout**  
 ✅ Dbát na správnost, konzistenci a čitelnost zápisků
+✅ Kontrolovat nové požadavky na revize minimálně jednou denně
 
 📍 **Jaké máš výhody?**  
 ✅ Nemusíš nutně psát vlastní zápisky  
