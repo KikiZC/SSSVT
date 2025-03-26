@@ -2,7 +2,7 @@
 
 Díky, že chceš přispět do tohoto repozitáře! Aby byl projekt férový a funkční, každý člen týmu musí dodržovat **princip "Give and Take"**:
 
-👉 **Každý musí přispět buď jako zapisovatel, nebo jako reviewer**.  
+👉 **Každý musí přispět buď jako zapisovatel, a nebo jako reviewer**.  
 👉 **Nikdo by neměl jen pasivně využívat zápisky bez přispění**.
 
 📌 **Vyber si svou roli:**
@@ -32,11 +32,14 @@ Díky, že chceš přispět do tohoto repozitáře! Aby byl projekt férový a f
 ✅ Nemusíš nutně psát vlastní zápisky  
 ✅ Můžeš se věnovat jen předmětům, kterým rozumíš
 
+ 📍 **Jako reviewer můžeš pořád zapisovat, ale není to nutností** 
+
+
 ---
 
 ## ⛔ **Co se stane, když někdo neplní svou roli?**
 
 ⚠️ Pokud někdo **nepřidává zápisky ani nereviduje**, může mu být odebrán přístup k repozitáři.  
-⚠️ Každý člen týmu má **povinnost se zapojit** – buď jako **zapisovatel**, nebo jako **reviewer**.
+⚠️ Každý člen týmu má **povinnost se zapojit** – buď jako **zapisovatel**, a nebo jako **reviewer**.
 
-📌 **Cílem je, aby byl projekt spravedlivý a nikdo se jen "nevezl"**.
+📌 **Cílem je, aby byl projekt spravedlivý a nikdo se jen "nevezl" na práci jiných**.
