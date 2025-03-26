@@ -1,0 +1,38 @@
+name: Enforce All Reviewers Approving
+on:
+  pull_request:
+    types: [synchronize, review_requested, submitted]
+
+jobs:
+  check-reviews:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get PR reviewers
+        id: reviewers
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/requested_reviewers
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get PR approvals
+        id: approvals
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/reviews
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check if all reviewers approved
+        run: |
+          REVIEWERS=($(echo '${{ steps.reviewers.outputs.data }}' | jq -r '.users[].login'))
+          APPROVED=($(echo '${{ steps.approvals.outputs.data }}' | jq -r '.[] | select(.state=="APPROVED") | .user.login'))
+
+          for reviewer in "${REVIEWERS[@]}"; do
+            if [[ ! " ${APPROVED[*]} " =~ " ${reviewer} " ]]; then
+              echo "::error:: Not all reviewers have approved the PR!"
+              exit 1
+            fi
+          done
+
+          echo "✅ All reviewers have approved!"
