@@ -6,4 +6,4 @@
 - zde záleží na pozici kurzoru
 
 `CTRL + K + D` 
-- zformátování dokumentu
+- zformátování celého dokumentu
