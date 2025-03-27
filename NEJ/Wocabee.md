@@ -86,7 +86,6 @@
 |     |  Ich war die ganze Zeit im Bett  |  Byl jsem celou dobu v posteli  |
 
 ---
-
 # Präteritum 2
 | Rod |              Německá verze              |          Česká verze           |     |
 | :-: | :-------------------------------------: | :----------------------------: | --- |
@@ -102,3 +101,21 @@
 |     |        Nahmst du die Sachen mit?        |   Vzal jsi s sebou ty věci?    |     |
 |     |            Ich ging draußen.            |         Šla jsem ven.          |     |
 |     |   Wir waren den ganzen Tag im Garten.   | Byli jsme celý den na zahradě. |     |
+
+---
+# Sport II
+
+| Rod |    Německá verze     |  Česká verze   |
+| :-: | :------------------: | :------------: |
+|     |        rennen        |     běžet      |
+|     |       springen       |    vyskočit    |
+|     |      blockieren      |    blokovat    |
+|     | einen Korb erziehlen |    dát koš     |
+| Der |      Aufschlag       |     podání     |
+| Der |        Return        |     return     |
+|     |       schlagen       |    odpálit     |
+|     | ins Wasser springen  | skákat do vody |
+|     |      schwimmen       |     plavat     |
+|     |        rudern        |    veslovat    |
+|     |      Ski fahren      |    lyžovat     |
+
