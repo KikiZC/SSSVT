@@ -1,3 +1,37 @@
+# Präteritum 2
+| Rod |              Německá verze              |          Česká verze           |     |
+| :-: | :-------------------------------------: | :----------------------------: | --- |
+|     |          Er ließ mich warten.           |        Nechal mě čekat.        |     |
+|     |       Wart ihr gestern zu Hause?        |     Byli jste včera doma?      |     |
+|     | Ich hatte gestern überhaupt keine Zeit. |  Neměla jsem včera vůbec čas.  |     |
+|     |        Er konnte nicht schlafen.        |         Nemohl usnout.         |     |
+|     |       Wurde er wirklich Direktor?       |   Stal se opravdu ředitelem?   |     |
+|     |  Die Kinder durften nicht Schokolade?   |     Děti nesměly čokoládu.     |     |
+|     |          Wir mussten abfahren.          |       Museli jsme odjet        |     |
+|     |       Sie sprachen über den Plan.       |      Mluvili o tom plánu.      |     |
+|     |       Hattet ihr die Hausaufgabe?       |     Měli jste domácí úkol?     |     |
+|     |        Nahmst du die Sachen mit?        |   Vzal jsi s sebou ty věci?    |     |
+|     |            Ich ging draußen.            |         Šla jsem ven.          |     |
+|     |   Wir waren den ganzen Tag im Garten.   | Byli jsme celý den na zahradě. |     |
+
+---
+# Sport II
+
+| Rod |    Německá verze     |  Česká verze   |
+| :-: | :------------------: | :------------: |
+|     |        rennen        |     běžet      |
+|     |       springen       |    vyskočit    |
+|     |      blockieren      |    blokovat    |
+|     | einen Korb erziehlen |    dát koš     |
+| Der |      Aufschlag       |     podání     |
+| Der |        Return        |     return     |
+|     |       schlagen       |    odpálit     |
+|     | ins Wasser springen  | skákat do vody |
+|     |      schwimmen       |     plavat     |
+|     |        rudern        |    veslovat    |
+|     |      Ski fahren      |    lyžovat     |
+
+---
 # Sport
 
 ## Balíček 1
@@ -86,36 +120,4 @@
 |     |  Ich war die ganze Zeit im Bett  |  Byl jsem celou dobu v posteli  |
 
 ---
-# Präteritum 2
-| Rod |              Německá verze              |          Česká verze           |     |
-| :-: | :-------------------------------------: | :----------------------------: | --- |
-|     |          Er ließ mich warten.           |        Nechal mě čekat.        |     |
-|     |       Wart ihr gestern zu Hause?        |     Byli jste včera doma?      |     |
-|     | Ich hatte gestern überhaupt keine Zeit. |  Neměla jsem včera vůbec čas.  |     |
-|     |        Er konnte nicht schlafen.        |         Nemohl usnout.         |     |
-|     |       Wurde er wirklich Direktor?       |   Stal se opravdu ředitelem?   |     |
-|     |  Die Kinder durften nicht Schokolade?   |     Děti nesměly čokoládu.     |     |
-|     |          Wir mussten abfahren.          |       Museli jsme odjet        |     |
-|     |       Sie sprachen über den Plan.       |      Mluvili o tom plánu.      |     |
-|     |       Hattet ihr die Hausaufgabe?       |     Měli jste domácí úkol?     |     |
-|     |        Nahmst du die Sachen mit?        |   Vzal jsi s sebou ty věci?    |     |
-|     |            Ich ging draußen.            |         Šla jsem ven.          |     |
-|     |   Wir waren den ganzen Tag im Garten.   | Byli jsme celý den na zahradě. |     |
-
----
-# Sport II
-
-| Rod |    Německá verze     |  Česká verze   |
-| :-: | :------------------: | :------------: |
-|     |        rennen        |     běžet      |
-|     |       springen       |    vyskočit    |
-|     |      blockieren      |    blokovat    |
-|     | einen Korb erziehlen |    dát koš     |
-| Der |      Aufschlag       |     podání     |
-| Der |        Return        |     return     |
-|     |       schlagen       |    odpálit     |
-|     | ins Wasser springen  | skákat do vody |
-|     |      schwimmen       |     plavat     |
-|     |        rudern        |    veslovat    |
-|     |      Ski fahren      |    lyžovat     |
 
