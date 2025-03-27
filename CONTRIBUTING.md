@@ -14,6 +14,7 @@ Díky, že chceš přispět do tohoto repozitáře! Aby byl projekt férový a f
 ✅ Obrázky (a jiné formáty) dávat jako samostatné soubory a dělat na ně odkazy
 ✅ Dodržovat jednotnou strukturu a názvy souborů  
 ✅ Udržovat zápisky přehledné a správně formátované
+✅ Minimálně jednou za **týden až dva** přidat alespoň pár zápisků
 
 📍 **Jaké máš výhody?**  
 ✅ Nemusíš provádět revize jiných zápisků  
