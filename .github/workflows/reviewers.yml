@@ -2,7 +2,7 @@ name: Enforce All Reviewers Approving
 
 on:
   pull_request:
-    types: [synchronize, review_requested, submitted]
+    types: [opened, synchronize, reopened, review_requested, submitted]
 
 jobs:
   check-reviews:
@@ -58,16 +58,16 @@ jobs:
           echo "Final Reviewers: ${REVIEWERS[*]}"
           echo "Final Approved: ${APPROVED[*]}"
 
-          if [[ ${#REVIEWERS[@]} -eq 0 ]]; then
-            echo "::error:: ❌ No reviewers found, something is wrong!"
-            exit 1
-          fi
-
-          for reviewer in "${REVIEWERS[@]}"; do
-            if [[ ! " ${APPROVED[*]} " =~ " ${reviewer} " ]]; then
-              echo "::error:: ❌ Reviewer $reviewer has NOT approved!"
-              exit 1
+          MISSING_APPROVALS=0
+          for reviewer in $reviewers; do
+            if [[ ! " $approved " =~ " $reviewer " ]]; then
+              echo "::error:: ❌ Reviewer '$reviewer' has NOT approved the PR!"
+              MISSING_APPROVALS=1
             fi
           done
+
+          if [[ $MISSING_APPROVALS -eq 1 ]]; then
+            exit 1
+          fi
 
           echo "✅ All reviewers have approved!"
