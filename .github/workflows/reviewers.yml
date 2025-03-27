@@ -13,7 +13,7 @@ jobs:
         with:
           route: GET /repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/requested_reviewers
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
       - name: Get PR approvals
         id: approvals
@@ -21,7 +21,7 @@ jobs:
         with:
           route: GET /repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/reviews
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
       - name: Check if all reviewers approved
         run: |
