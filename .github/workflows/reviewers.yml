@@ -11,34 +11,58 @@ jobs:
       - name: Get PR reviewers
         id: reviewers
         run: |
+          echo "Fetching requested reviewers..."
           response=$(curl -s -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
                            -H "Accept: application/vnd.github.v3+json" \
                            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/requested_reviewers")
-          
-          echo "Reviewers response: $response"
-          echo "::set-output name=reviewers::$(echo "$response" | jq -r '.users[].login')"
+
+          echo "Raw API Response: $response"
+
+          REVIEWERS=$(echo "$response" | jq -r '.users[].login' | tr '\n' ' ')
+          echo "Parsed reviewers: $REVIEWERS"
+
+          if [[ -z "$REVIEWERS" ]]; then
+            echo "::error:: ❌ API did not return any reviewers!"
+            exit 1
+          fi
+
+          echo "::set-output name=reviewers::$REVIEWERS"
 
       - name: Get PR approvals
         id: approvals
         run: |
+          echo "Fetching approvals..."
           response=$(curl -s -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
                            -H "Accept: application/vnd.github.v3+json" \
                            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/reviews")
 
-          echo "Reviews response: $response"
-          echo "::set-output name=approvals::$(echo "$response" | jq -r '.[] | select(.state=="APPROVED") | .user.login')"
+          echo "Raw API Response: $response"
+
+          APPROVED=$(echo "$response" | jq -r '.[] | select(.state=="APPROVED") | .user.login' | tr '\n' ' ')
+          echo "Parsed approvals: $APPROVED"
+
+          if [[ -z "$APPROVED" ]]; then
+            echo "::warning:: ⚠️ No approvals found (yet)."
+          fi
+
+          echo "::set-output name=approvals::$APPROVED"
 
       - name: Check if all reviewers approved
         run: |
-          REVIEWERS=($(echo "${{ steps.reviewers.outputs.reviewers }}" | tr '\n' ' '))
-          APPROVED=($(echo "${{ steps.approvals.outputs.approvals }}" | tr '\n' ' '))
+          REVIEWERS=($(echo "${{ steps.reviewers.outputs.reviewers }}"))
+          APPROVED=($(echo "${{ steps.approvals.outputs.approvals }}"))
 
-          echo "Reviewers: ${REVIEWERS[*]}"
-          echo "Approved: ${APPROVED[*]}"
+          echo "Final Reviewers: ${REVIEWERS[*]}"
+          echo "Final Approved: ${APPROVED[*]}"
+
+          if [[ ${#REVIEWERS[@]} -eq 0 ]]; then
+            echo "::error:: ❌ No reviewers found, something is wrong!"
+            exit 1
+          fi
 
           for reviewer in "${REVIEWERS[@]}"; do
             if [[ ! " ${APPROVED[*]} " =~ " ${reviewer} " ]]; then
-              echo "::error:: Not all reviewers have approved the PR!"
+              echo "::error:: ❌ Reviewer $reviewer has NOT approved!"
               exit 1
             fi
           done
