@@ -2,16 +2,45 @@ name: Enforce All Reviewers Approving
 
 on:
   pull_request:
-    types: [opened, synchronize, reopened]
+    types: [synchronize, review_requested, submitted]
 
 jobs:
-  enforce-reviewers:
+  check-reviews:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: Get PR reviewers
+        id: reviewers
+        run: |
+          response=$(curl -s -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+                           -H "Accept: application/vnd.github.v3+json" \
+                           "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/requested_reviewers")
+          
+          echo "Reviewers response: $response"
+          echo "::set-output name=reviewers::$(echo "$response" | jq -r '.users[].login')"
 
-      - name: Enforce Reviewers
-        uses: octokit/auth-action@v1
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Get PR approvals
+        id: approvals
+        run: |
+          response=$(curl -s -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+                           -H "Accept: application/vnd.github.v3+json" \
+                           "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/reviews")
+
+          echo "Reviews response: $response"
+          echo "::set-output name=approvals::$(echo "$response" | jq -r '.[] | select(.state=="APPROVED") | .user.login')"
+
+      - name: Check if all reviewers approved
+        run: |
+          REVIEWERS=($(echo "${{ steps.reviewers.outputs.reviewers }}" | tr '\n' ' '))
+          APPROVED=($(echo "${{ steps.approvals.outputs.approvals }}" | tr '\n' ' '))
+
+          echo "Reviewers: ${REVIEWERS[*]}"
+          echo "Approved: ${APPROVED[*]}"
+
+          for reviewer in "${REVIEWERS[@]}"; do
+            if [[ ! " ${APPROVED[*]} " =~ " ${reviewer} " ]]; then
+              echo "::error:: Not all reviewers have approved the PR!"
+              exit 1
+            fi
+          done
+
+          echo "✅ All reviewers have approved!"
