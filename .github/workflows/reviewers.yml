@@ -1,38 +1,15 @@
-name: Enforce All Reviewers Approving
+name: Unanimously Approved
+
 on:
   pull_request:
-    types: [synchronize, review_requested, submitted]
+    types: [opened, reopened, synchronize, review_requested, review_request_removed]
+  pull_request_review:
+    types: [submitted, dismissed]
 
 jobs:
-  check-reviews:
+  unanimously-approved:
     runs-on: ubuntu-latest
+    timeout-minutes: 1
+
     steps:
-      - name: Get PR reviewers
-        id: reviewers
-        uses: octokit/request-action@v2.x
-        with:
-          route: GET /repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/requested_reviewers
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Get PR approvals
-        id: approvals
-        uses: octokit/request-action@v2.x
-        with:
-          route: GET /repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/reviews
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Check if all reviewers approved
-        run: |
-          REVIEWERS=($(echo '${{ steps.reviewers.outputs.data }}' | jq -r '.users[].login'))
-          APPROVED=($(echo '${{ steps.approvals.outputs.data }}' | jq -r '.[] | select(.state=="APPROVED") | .user.login'))
-
-          for reviewer in "${REVIEWERS[@]}"; do
-            if [[ ! " ${APPROVED[*]} " =~ " ${reviewer} " ]]; then
-              echo "::error:: Not all reviewers have approved the PR!"
-              exit 1
-            fi
-          done
-
-          echo "✅ All reviewers have approved!"
+      - uses: snow-actions/unanimously-approved@v3.0.0
