@@ -12,6 +12,7 @@
 
 
 ## 🔄 Vliv a odkaz  
+	Moc toho neměl
 
 
 ## 🕰 Timeline  
