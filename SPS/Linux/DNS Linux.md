@@ -13,7 +13,8 @@ zde si definujeme ze které sítě se můžeme ptát, popř. any => můžeme se 
 ```bash
 allow-query { 50.20.30.0/24; any; }
 ```
-poté si dole nadefinujeme svoje zóny
+
+3) poté si dole nadefinujeme svoje zóny
 ```bash
 zone "jdeto.sps" IN {
 	type master;
@@ -144,4 +145,4 @@ allow-transfer { 50.20.30.2; 50.20.30.3; };
 	Poté na sekundárním
 	`systemctl restart named.service`
 
-3)      Nakonec příkazem `nslookup` ověříme funkčnost
+4)      Nakonec příkazem `nslookup` ověříme funkčnost
