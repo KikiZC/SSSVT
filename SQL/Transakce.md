@@ -1,5 +1,5 @@
-transakce je prvek v SQL který nám umožnuje dělat operace které při případě že by došlo ke chybě spadnou a celé se ukonči a nedostanou se nám do databáze chybná nebo nesprávná data
-- většinou ukládáme do [[Procedůra|procedůry]]
+Transakce je prvek v SQL který nám umožnuje dělat operace které při případě že by došlo ke chybě spadnou a celé se ukončí a nedostanou se nám do databáze chybná nebo nesprávná data
+- většinou ukládáme do [[Procedura|procedury]]
 - mají dvě možnosti "žití" v tzv:. Catch, Try bloku 
 - řídí se takzvaným [[ACID]] principem 
 
