@@ -6,7 +6,7 @@ trigger je prvek v SQL databázích která sleduje tabulku a při provedení nas
   - Insert  
   - Delete  
   
-**poznámka trigger je vždy [[Transakce]]  
+**poznámka trigger je vždy [[Transakce]]** 
   
 Vytváříme   
 ```SQL  
