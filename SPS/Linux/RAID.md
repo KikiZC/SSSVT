@@ -32,7 +32,7 @@ mdadm --examine --scan --config=/etc/mdadm.conf >> /etc/mdadm.conf
 	- Potvrdíme **Enterem**
 	- Zkontrolujeme pomocí `mdadm --detail /dev/md5`
 	- Zapíšeme do configu pomocí: `echo “DEVICE /dev/sd*[b-n]“ > /etc/mdadm.conf`
-	- Přidáme zbytek: `a. mdadm --examine --scan >> /etc/mdadm.conf`
+	- Přidáme zbytek: `mdadm --examine --scan --config=/etc/mdadm.conf >> /etc/mdadm.conf`
 - Přidáme filesystem
 	- Uděláme složku pomocí `mkdir /mnt/r5`
 	- Přidáme filesystem:
