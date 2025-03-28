@@ -1,6 +1,10 @@
 ``` timeline-labeled
 [line-3, body-4]
 
+date: 133, 134
+title: Příprava na test, test
+content: 
+
 date: 131, 132
 title: DNS P+S (L+W)
 content: [[DNS Linux#Konfigurace sekundárního serveru]]
