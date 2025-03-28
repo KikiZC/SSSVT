@@ -3,7 +3,7 @@
 
 date: 133, 134
 title: Příprava na test, test
-content: 
+content: Nevíme z čeho ale něco *misterious*
 
 date: 131, 132
 title: DNS P+S (L+W)
