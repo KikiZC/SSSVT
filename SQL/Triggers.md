@@ -1,12 +1,12 @@
 trigger je prvek v SQL databázích která sleduje tabulku a při provedení nastavené akce tak spustí blok kódu 
 
-- speciální tryp uložené procedury   
+- speciální typ uložené procedury   
 - spouští se při určité události  
-  - Upadte  
+  - Update  
   - Insert  
-  - delete  
+  - Delete  
   
-**poznámka trigger je vždy transakce**  
+**poznámka trigger je vždy [[Transakce]]** 
   
 Vytváříme   
 ```SQL  
