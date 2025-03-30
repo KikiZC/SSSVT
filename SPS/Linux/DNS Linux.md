@@ -92,14 +92,14 @@ poté si dole nadefinujeme svoje zóny
 zone "jdeto.sps" IN {
 	type slave;
 	masters { 50.20.30.1; };
-	file "dopred";
+	file "slaves/dopred";
 }
 ```
 ```bash
 zone "30.20.50.in-addr.arpa" IN {
 	type slave;
 	masters { 50.20.30.1; };
-	file "zpet";
+	file "slaves/zpet";
 }
 ```
 

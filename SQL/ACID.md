@@ -4,6 +4,6 @@ ACID je souhrn základních principů/pravidel pro transakce v SQL
 
 **Consistency (Konzistence)** – Transakce musí splňovat standardy aby šla spustit na úplně cizí databázi z minimálními úpravami 
 
-**Isolation (Izolace)** – v databazy transakce na sebe nesmí mýt žádný vliv 
+**Isolation (Izolace)** – v databázi transakce na sebe nesmí mít žádný vliv 
 
 **Durability (Trvalost)** – Jakmile je transakce potvrzena (COMMIT), její změny musí být trvale uloženy i v případě výpadku systému.
