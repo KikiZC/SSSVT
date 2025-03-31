@@ -1,9 +1,13 @@
 ``` timeline-labeled
 [line-3, body-4]
-
+ 
 date: 135, 136
 title: Rekapitulace písemky, firewall
 content: [[Firewall]]
+
+date: 133, 134
+title: Příprava na test, test
+content: Nevíme z čeho ale něco *misterious*
 
 date: 131, 132
 title: DNS P+S (L+W)
