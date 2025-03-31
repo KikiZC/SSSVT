@@ -1,6 +1,10 @@
 ``` timeline-labeled
 [line-3, body-4]
 
+date: 135, 136
+title: Rekapitulace písemky, firewall
+content: [[Firewall]]
+
 date: 131, 132
 title: DNS P+S (L+W)
 content: [[DNS Linux#Konfigurace sekundárního serveru]]
