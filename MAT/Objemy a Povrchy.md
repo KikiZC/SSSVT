@@ -1,4 +1,4 @@
 [[Krychle]]
-[[Kvádr]]
+[[Kvádry]]
 [[Hranoly]]
 [[Jehlany]]

@@ -1,5 +1,5 @@
 pravidelný 6ti stěn, platónské těleso
-obecnější tvar je [[Kvádr]]
+obecnější tvar je [[Kvádry]]
 
 ## Vzorce
 ### Stěnová úhlopříčka
