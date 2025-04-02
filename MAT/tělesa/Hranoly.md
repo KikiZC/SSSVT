@@ -1,4 +1,4 @@
-- mnohostěn, který má 2 podstavy (stejné, rovnoběžné) a tvoří je libovolný N-úhelník
+= mnohostěn, který má 2 podstavy (stejné, rovnoběžné) a tvoří je libovolný N-úhelník
 
 ## Vzorce
 ### Objem
