@@ -1,4 +1,4 @@
-- mnohostěn, který má 1 podstavu, vrchol a boční stěny
+= mnohostěn, který má 1 podstavu, vrchol a boční stěny
 - podstava je N-úhelník
 
 ## Vzorce
