@@ -1,6 +1,10 @@
 ``` timeline-labeled
 [line-3, body-4]
- 
+
+date: 137, 138
+title: Firewall
+content: [[Firewall]]
+
 date: 135, 136
 title: Rekapitulace písemky, firewall
 content: [[Firewall]]
