@@ -10,7 +10,8 @@
 2) Systém se restartuje
 3) Poté se dá dostat do konzole
 4) Zde můžeme změnit IP adresu
-5) Na jiném PC (třeba W11) se připojíme na adresu https://\<ip toho keria>:4081/admin
+5) Na jiném PC (třeba W11) se připojíme na adresu 
+	- `https://<ip toho keria>:4081/admin`
 6) Projdeme podmínkami a nastavením
 	1) Musíme vybrat instalace bez kódu 
 7) Přihlásíme se
