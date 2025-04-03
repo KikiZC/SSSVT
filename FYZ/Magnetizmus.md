@@ -17,4 +17,19 @@ Označení:
 2. Souhlasné póly se odpuzují
 ![Siločáry u sourodých magnetů](2souhlasne.png)
 
+### Magnetické pole
+= působení magnetické síly v prostoru
+- lze zviditelnit pomocí:
+	- železných pilin
+	![Železné piliny v magnetickém poli](pole-piliny.png)
+	- magnetky
+	![Magnetická střelka kompasu](magnetka-strelka.jpg)
+
+## Magnet typu *podkova*
+![Magnet tvaru podkovy](magnet-podkova.png)
+- uprostřed podkovy je **stejnorodé magnetické pole**
+	- má stejný směr a stejnou velikost magnetické síly
+
+
+
 
