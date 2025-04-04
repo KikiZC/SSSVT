@@ -1,4 +1,4 @@
-- Kurzory prochází jednotlivé řádky výsledku dotazu
+- Kurzory prochází jednotlivé řádky výsledku dotazu a vykonává nad nimi operace
 - Neskutečně pomalé, neefektivní
 
 ## Typy kurzorů
