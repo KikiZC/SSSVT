@@ -1,6 +1,10 @@
 ``` timeline-labeled
 [line-3, body-4]
 
+date: 139, 140
+title: Firewall, Rekapitulace písemky, Klasifikace 3. čtvrtletí
+content: [[Firewall]]
+
 date: 137, 138
 title: Firewall
 content: [[Firewall]]
