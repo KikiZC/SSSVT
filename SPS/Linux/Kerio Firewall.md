@@ -1,6 +1,6 @@
 ## Stáhnutí
 1) Od pana učitele stáhneme kerio iso image
-2) Ve VMwaru přidáme novou machine
+2) Ve VMwaru přidáme novou virtual machine
 3) Projdeme instalačním procesem
 	1) Vybereme Linux
 	2) Nezapomeneme změnit umístěni jinak se to nainstaluje do dokumentů
