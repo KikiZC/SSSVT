@@ -53,20 +53,20 @@
 # Sport
 
 ## Balíček 1
-| Rod |   Německá verze    |   Česká verze    |
-|:---:|:------------------:|:----------------:|
-| Der |  Beachvolleyball   | Plážový volejbal |
-| Der |     Kanusport      |    Kanoistika    |
-| Der |      Radsport      |    Cyklistika    |
-| Das |      Rafting       |     Rafting      |
-| Das |  Wasserskifahren   |  Vodní lyžování  |
-| Das |       Surfen       |    Surfování     |
-| Das |      Tauchen       |     Potápění     |
-| Das | Schnorcheltauchen  |   Šnorchlování   |
-| Das |        Golf        |       Golf       |
-| Der |     Rudersport     |    Veslování     |
-| Das |       Segeln       |    Plachtění     |
-| Das |     Schwimmen      |     Plavání      |
+|  Rod  |   Německá verze   |   Česká verze    |
+| :---: | :---------------: | :--------------: |
+|  Der  |  Beachvolleyball  | Plážový volejbal |
+| *Der* |    Kanu*sport*    |    Kanoistika    |
+| *Der* |    Rad*sport*     |    Cyklistika    |
+|  Das  |      Rafting      |     Rafting      |
+|  Das  |  Wasserskifahren  |  Vodní lyžování  |
+|  Das  |      Surfen       |    Surfování     |
+|  Das  |      Tauchen      |     Potápění     |
+|  Das  | Schnorcheltauchen |   Šnorchlování   |
+|  Das  |       Golf        |       Golf       |
+| *Der* |   Ruder*sport*    |    Veslování     |
+|  Das  |      Segeln       |    Plachtění     |
+|  Das  |     Schwimmen     |     Plavání      |
 
 ## Balíček 2
 | Rod |   Německá verze    |   Česká verze    |
