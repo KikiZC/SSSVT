@@ -1,3 +1,21 @@
+# Lektion 10 - příprava na test
+
+| Rod |             Německá verze             |              Česká verze              |
+| :-: | :-----------------------------------: | :-----------------------------------: |
+|     |  Er hatte am Wochenende keine Zeit.   |         Neměl o víkendu čas.          |
+|     |      Wann gehst du in den Park?       |          Kdy jdeš do parku?           |
+|     |   Wo warst du am Sonntagnachmittag?   |    Kde jsi byl v sobotu odpoledne?    |
+|     |      Der Bekannte ist aus Prag.       |         Ten známý je z Prahy.         |
+|     | Ich war bei Oma und später bei Petra. | Byl jsem u babičky a později u Petry. |
+|     |    Zuerst gehen wir in die Stadt.     |      Nejdříve půjdeme do města.       |
+|     |   Dann möchten wir ins Kino gehen.    |       Potom chceme jít do kina.       |
+|     |      Paris ist meine Traumstadt.      |      Paříž je mé vysněné město.       |
+|     | Gestern waren wir gemeinsam im Café.  |  Včera jsme byli společně v kavárně.  |
+|     | Měli jsme pro něho ještě jeden dárek. | Wir hatten für ihn noch ein Geschenk. |
+|     |  Im Sommer war ich wieder in Berlin.  |    V létě jsem byl opět v Berlíně.    |
+|     |       Wie ist dar Wetter heute?       |         Jaké je dnes počasí?          |
+
+---
 # Präteritum 2
 | Rod |              Německá verze              |          Česká verze           |     |
 | :-: | :-------------------------------------: | :----------------------------: | --- |
