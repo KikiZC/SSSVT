@@ -1,6 +1,10 @@
 ``` timeline-labeled
 [line-3, body-4]
 
+date: 143, 144
+title: Shrnutí firewall
+content: [[Firewall]]
+
 date: 141, 142
 title: Shrnutí firewall
 content: [[Firewall]]
