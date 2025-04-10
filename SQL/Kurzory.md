@@ -1,5 +1,6 @@
 - Kurzory prochází jednotlivé řádky výsledku dotazu a vykonává nad nimi operace
 - Neskutečně pomalé, neefektivní
+- Výchozí typ, nedefinujeme-li ho, je statický
 
 ## Typy kurzorů
 ### Statický
