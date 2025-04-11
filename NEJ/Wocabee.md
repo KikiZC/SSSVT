@@ -12,7 +12,6 @@
 |     |     ungeduldig      |  netrpělivý   |
 |     |        ruhig        |    klidný     |
 
-
 ---
 # Lektion 10 - příprava na test
 
@@ -20,7 +19,7 @@
 | :-: | :-----------------------------------: | :-----------------------------------: |
 |     |  Er hatte am Wochenende keine Zeit.   |         Neměl o víkendu čas.          |
 |     |      Wann gehst du in den Park?       |          Kdy jdeš do parku?           |
-|     |   Wo warst du am Samstagnachmittag?   |    Kde jsi byl v neděli odpoledne?    |
+|     |   Wo warst du am Sonntagnachmittag?   |    Kde jsi byl v neděli odpoledne?    |
 |     |      Der Bekannte ist aus Prag.       |         Ten známý je z Prahy.         |
 |     | Ich war bei Oma und später bei Petra. | Byl jsem u babičky a později u Petry. |
 |     |    Zuerst gehen wir in die Stadt.     |      Nejdříve půjdeme do města.       |
