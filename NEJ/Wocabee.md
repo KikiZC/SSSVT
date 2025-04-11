@@ -1,10 +1,26 @@
+| Rod |    Německá verze    |  Česká verze  |
+|:---:|:-------------------:|:-------------:|
+|     |  Wie geht es dir?   |  Jak se máš?  |
+|     | Wie fühlst du dich? | Jak se cítíš? |
+| Das |       Gefühl        |     pocit     |
+|     |      glücklich      |    šťastný    |
+|     |       traurig       |    smutný     |
+|     |     unglücklich     |   nešťastný   |
+|     |      zufrieden      |   spokojený   |
+|     |     unzufrieden     |  nespokojený  |
+|     |      geduldig       |   trpělivý    |
+|     |     ungeduldig      |  netrpělivý   |
+|     |        ruhig        |    klidný     |
+
+
+---
 # Lektion 10 - příprava na test
 
 | Rod |             Německá verze             |              Česká verze              |
 | :-: | :-----------------------------------: | :-----------------------------------: |
 |     |  Er hatte am Wochenende keine Zeit.   |         Neměl o víkendu čas.          |
 |     |      Wann gehst du in den Park?       |          Kdy jdeš do parku?           |
-|     |   Wo warst du am Samstagnachmittag?   |    Kde jsi byl v sobotu odpoledne?    |
+|     |   Wo warst du am Samstagnachmittag?   |    Kde jsi byl v neděli odpoledne?    |
 |     |      Der Bekannte ist aus Prag.       |         Ten známý je z Prahy.         |
 |     | Ich war bei Oma und später bei Petra. | Byl jsem u babičky a později u Petry. |
 |     |    Zuerst gehen wir in die Stadt.     |      Nejdříve půjdeme do města.       |
@@ -17,20 +33,20 @@
 
 ---
 # Präteritum 2
-| Rod |              Německá verze              |          Česká verze           |     |
-| :-: | :-------------------------------------: | :----------------------------: | --- |
-|     |          Er ließ mich warten.           |        Nechal mě čekat.        |     |
-|     |       Wart ihr gestern zu Hause?        |     Byli jste včera doma?      |     |
-|     | Ich hatte gestern überhaupt keine Zeit. |  Neměla jsem včera vůbec čas.  |     |
-|     |        Er konnte nicht schlafen.        |         Nemohl usnout.         |     |
-|     |       Wurde er wirklich Direktor?       |   Stal se opravdu ředitelem?   |     |
-|     |  Die Kinder durften nicht Schokolade?   |     Děti nesměly čokoládu.     |     |
-|     |          Wir mussten abfahren.          |       Museli jsme odjet        |     |
-|     |       Sie sprachen über den Plan.       |      Mluvili o tom plánu.      |     |
-|     |       Hattet ihr die Hausaufgabe?       |     Měli jste domácí úkol?     |     |
-|     |        Nahmst du die Sachen mit?        |   Vzal jsi s sebou ty věci?    |     |
-|     |            Ich ging draußen.            |         Šla jsem ven.          |     |
-|     |   Wir waren den ganzen Tag im Garten.   | Byli jsme celý den na zahradě. |     |
+| Rod |              Německá verze              |          Česká verze           |
+|:---:|:---------------------------------------:|:------------------------------:|
+|     |          Er ließ mich warten.           |        Nechal mě čekat.        |
+|     |       Wart ihr gestern zu Hause?        |     Byli jste včera doma?      |
+|     | Ich hatte gestern überhaupt keine Zeit. |  Neměla jsem včera vůbec čas.  |
+|     |        Er konnte nicht schlafen.        |         Nemohl usnout.         |
+|     |       Wurde er wirklich Direktor?       |   Stal se opravdu ředitelem?   |
+|     |  Die Kinder durften nicht Schokolade?   |     Děti nesměly čokoládu.     |
+|     |          Wir mussten abfahren.          |       Museli jsme odjet        |
+|     |       Sie sprachen über den Plan.       |      Mluvili o tom plánu.      |
+|     |       Hattet ihr die Hausaufgabe?       |     Měli jste domácí úkol?     |
+|     |        Nahmst du die Sachen mit?        |   Vzal jsi s sebou ty věci?    |
+|     |            Ich ging draußen.            |         Šla jsem ven.          |
+|     |   Wir waren den ganzen Tag im Garten.   | Byli jsme celý den na zahradě. |
 
 ---
 # Sport II
