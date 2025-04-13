@@ -1,3 +1,5 @@
+# Gefühle und Emotionen 1 
+
 | Rod |    Německá verze    |  Česká verze  |
 |:---:|:-------------------:|:-------------:|
 |     |  Wie geht es dir?   |  Jak se máš?  |
@@ -27,9 +29,9 @@
 |     |   Dann möchten wir ins Kino gehen.    |       Potom chceme jít do kina.       |
 |     |      Paris ist meine Traumstadt.      |      Paříž je mé vysněné město.       |
 |     | Gestern waren wir gemeinsam im Café.  |  Včera jsme byli společně v kavárně.  |
-|     | Wir hatten für ihn noch ein Geschenk. | Měli jsme pro něho ještě jeden dárek. |
+|     | Wir hatten für ihn noch ein Geschenk. | Měli jsme pro něj  ještě jeden dárek. |
 |     |  Im Sommer war ich wieder in Berlin.  |    V létě jsem byl opět v Berlíně.    |
-|     |       Wie ist dar Wetter heute?       |         Jaké je dnes počasí?          |
+|     |       Wie ist das Wetter heute?       |         Jaké je dnes počasí?          |
 
 ---
 # Präteritum 2
