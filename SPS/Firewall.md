@@ -1,7 +1,7 @@
 = zeď která chrání:
 - Mojí síť proti venku
 - Venek proti mé síti
-
+- Pracuje na síťové a transportní vrstvě
 ## Typy firewallu:
 - Softwarový
 - Hardwarový
@@ -10,6 +10,7 @@
 ## Typy filtru ve firewallu:
 ### Paketový filtr
 - řídí se tabulkou pravidel
+- Zabývá se pouze hlavičkou paketu, zajímá ho port, protokol na vyšších vrstvách atd.
 - lze formou:
 	- **Povolení** - povolí průchod
 	- **Zakázání** - zakáže průchod 
@@ -30,7 +31,7 @@
 
 ### Aplikační filtr
 - na aplikační vrstvě
-- nezajímá se o paket, ale o obsah paketu
+- nezajímá se o paket, ale jeho obsah
 - **Nevýhody**:
 	- pomalejší
 	- náročnější na zpracování
