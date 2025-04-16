@@ -1,6 +1,10 @@
 ``` timeline-labeled
 [line-3, body-4]
 
+date: 145, 146
+title: Směrování
+content: [[SPS/Linux/Směrování|Směrování]]
+
 date: 143, 144
 title: Shrnutí firewall
 content: [[Firewall]]
