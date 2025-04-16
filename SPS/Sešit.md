@@ -3,7 +3,7 @@
 
 date: 145, 146
 title: Směrování
-content: [[Směrování]]
+content: [[SPS/Linux/Směrování|Směrování]]
 
 date: 143, 144
 title: Shrnutí firewall
