@@ -1,6 +1,10 @@
 ``` timeline-labeled
 [line-3, body-4]
 
+date: 147, 148
+title: Kontrola směrování Linux
+content: [[SPS/Linux/Směrování|Směrování]]
+
 date: 145, 146
 title: Směrování
 content: [[SPS/Linux/Směrování|Směrování]]
