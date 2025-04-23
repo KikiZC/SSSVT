@@ -10,6 +10,7 @@ Potřebujeme:
 - potom je nutné rebootovat systém
 - případně lze v terminálu spustit příkaz: `sysctl -w net.ipv4.ip_forward=1`
 - tímto se povolí přeposílání paketů, které nejsou jeho
+- POZOR - je nutné [[Užitečné příkazy#Vypnutí firewallu|vypnout firewall]]
 
 ## Dočasná route
 `ip route add 100.20.30.0/24 via 100.20.30.2 dev ens33`
