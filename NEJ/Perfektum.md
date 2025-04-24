@@ -34,7 +34,7 @@
 
 - (ge) nedáváme:
 	- U sloves končících na -ieren (Fotograf**ieren**)
-		- Většinou pravydelné -> Er hat uns Fotografieren.
+		- Většinou pravidelné -> Er hat uns Fotografieren.
 	- U sloves s neodlučitelnou předponou
 		- Předpony: be-, ge-, ent-, emp-, er-, ver-, zer-
 			- verschlafen => Er hat verschlafen.
