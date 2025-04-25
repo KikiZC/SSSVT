@@ -4,7 +4,7 @@ Potřebujeme:
 - rozhraní, kterým odchází ode mě
 - bránu
 - metriku - v linuxu nepovinná
-
+- POZOR - nutno po změně route rebootnout server
 ## Nastavení na mezilehlých linuxech
 - do `/etc/sysctl.conf` dopíšeme na nový řádek: `net.ipv4.ip_forward=1`
 - potom je nutné rebootovat systém
