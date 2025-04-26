@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Wortschatz - 11.L /1
 | Rod |          Německá verze           |      Česká verze      |
 |:---:|:--------------------------------:|:---------------------:|
@@ -16,24 +15,6 @@
 |     |             klettern             |     lézt, šplhat      |
 
 ---
-=======
-# Wortchatz 11. Lektion
-
-| Rod |          Německá verze          |     Česká verze      |
-| :-: | :-----------------------------: | :------------------: |
-|     | Ist er in die Schule gegangen?  |    Šel do školy?     |
-|     |      Du hast Judo gemacht       |    Dělal jsi judo    |
-|     | Sie hat ein neues Kleid gekauft | Koupila si nové šaty |
-|     | Ich habe nicht ins Kino gedurft | Nesměl jsem do kina  |
-|     | Er ist spät Abend eingeschlafen |  Usnul pozdě večer   |
-|     |           gefährlich            |      nebezpečný      |
-|     |            spannend             |       napínavý       |
-| Das |              Seil               |         lano         |
-| Der |           Fallschirm            |        padák         |
-| Die |         Wassersportart          |     vodní sport      |
-|     |            springen             |        skákat        |
-|     |            klettern             |     lézt, šplhat     |
->>>>>>> Stashed changes
 # Gefühle und Emotionen 1 
 
 | Rod |    Německá verze    |  Česká verze  |
