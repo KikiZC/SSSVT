@@ -129,7 +129,7 @@ při více adresách stačí přidat se středníkem další
 allow-transfer { 50.20.30.2; 50.20.30.3; };
 ```
 ### Na obou
-1)      Vypneme [[Firewall]]:
+1)      Vypneme [[SPS/Firewall]]:
 
 	systemctl stop firewalld.service
 	
