@@ -1,6 +1,10 @@
 ``` timeline-labeled
 [line-3, body-4]
 
+date: 155, 156
+title: Směrování Linux Dynamické FRR
+content: [[SPS/Linux/Směrování|Směrování]]
+
 date: 153, 154
 title: Směrování Linux Dynamické FRR
 content: [[SPS/Linux/Směrování|Směrování]]
