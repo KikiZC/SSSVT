@@ -3,7 +3,7 @@
 
 date: 155, 156
 title: Souborná práce 2
-content: 
+content: [[SPS/Souborná práce 2]]
 
 date: 153, 154
 title: Směrování Linux Dynamické FRR
