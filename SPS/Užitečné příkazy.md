@@ -5,7 +5,7 @@ vypnutí firewallu
 
 zrušení automatického zapínání
 
-	systemctl disable 
+	systemctl disable firewalld.service 
 
 
 # Česká klávesnice
