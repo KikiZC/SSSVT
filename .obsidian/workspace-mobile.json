@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "28f044bbe0881dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c054a7b67d3b7678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9f3f275c4a9607b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4da92da77577f44",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "771901c40c7502f6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "e610fcdcccafdcba",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "c9efee910c79ca65",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "777b8c340ba68803",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d80eaa5a3d425b34",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d15085c86b475cea",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NEJ/W otázky.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a7ed78959c0200d8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "cb04336e19773891",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f9f3f275c4a9607b",
+  "lastOpenFiles": [
+    "NEJ/Slovíčka/Ostatní slovíčka/Bleiben.md",
+    "SPS/Souborná práce 2.md",
+    "SPS/Linux/Směrování.md",
+    "PVY/ACID.md",
+    "SPS/Firewall.md",
+    "PVY/Kurzory.md",
+    "NEJ/Perfektum.md",
+    "PVY/Vytvoření tabulky podle jiné tabulky.md",
+    "PVY/Funkce.md",
+    "PVY/Triggers.md",
+    "Templates/Slovíčko.md",
+    "PVY/Procedura.md",
+    "PVY/CRUD.md",
+    "SPS/Linux/Dynamické směrování Linux.md",
+    "CCNA/Příkazy.md",
+    "CCNA",
+    "NEJ/Slovíčka/Ostatní slovíčka/Haben.md",
+    "NEJ/Slovíčka/Ostatní slovíčka/Sein.md",
+    "NEJ/Slovíčka/Ostatní slovíčka",
+    "PVY/Transakce.md",
+    "PVY",
+    "SQL/Vytvoření tabulky podle jiné tabulky.md",
+    "SQL/ACID.md",
+    "SQL/Triggers.md",
+    "SPS/Linux/Firewall.md",
+    "SQL/Procedura.md",
+    "SQL/Kurzory.md",
+    "SQL/Transakce.md",
+    "SQL/CRUD.md",
+    "SQL",
+    "SPS/obr/DMZ 2 FW.PNG",
+    "SPS/obr/DMZ 1 FW.PNG",
+    "SPS/obr/disky2.png"
+  ]
+}
