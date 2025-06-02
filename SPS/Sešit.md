@@ -2,7 +2,7 @@
 [line-3, body-4]
 
 date: 169, 170
-title: Test, Souborná práce 2
+title: Souborná práce 2
 content: [[SPS/Souborná práce 2]]
 
 date: 167, 168
