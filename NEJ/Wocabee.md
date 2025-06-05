@@ -1,18 +1,18 @@
 # Perfektum
-| Německy                  | Česky            |
-| ------------------------ | ---------------- |
-| Aufwachen                | vzbudit se       |
-| Aufstehen                | vstát            |
-| Das Bett machen          | ustlat si postel |
-| Sich das Gesicht waschen | umýt si tvář     |
-| Sich die Haare kämmen    | učesat se        |
-| Sich die Zähne putzen    | vyčistit si zuby |
-| Sich anziehen            | obléct se        |
-| In die Schule kommen     | přijít do školy  |
-| Auf den Bus warten       | čekat na autobus |
-| Turnen                   | cvičit           |
-| Mit dem Bus fahren       | jet autobusem    |
-| Den Zug verpassen        | zmeškat vlak     |
+| Rod |      Německá verze       |   Česká verze    |
+| :-: | :----------------------: | :--------------: |
+|     |        Aufwachen         |    Vzbudit se    |
+|     |        Aufstehen         |      Vstát       |
+|     |     Das Bett machen      | Ustlat si postel |
+|     | Sich das Gesicht waschen |   Umýt si tvář   |
+|     |  Sich die Haare kämmen   |    Učesat se     |
+|     |  Sich die Zähne putzen   | Vyčistit si zuby |
+|     |      Sich anziehen       |    Obléct se     |
+|     |   In die Schule kommen   | Přijít do školy  |
+|     |    Auf den Bus warten    | Čekat na autobus |
+|     |          Turnen          |      Cvičit      |
+|     |    Mit dem Bus fahren    |  Jet autobusem   |
+|     |    Den Zug verpassen     |   Zmeškat vlak   |
 # Přivlastňovací zájmena
 | Rod |              Německá verze              |           Česká verze            |     |
 | :-: | :-------------------------------------: | :------------------------------: | --- |
@@ -28,6 +28,7 @@
 |     | Ich spreche gern mit *ihrer* Schwester. |  Mluvím ráda s *její* sestrou.   |     |
 |     |         Das sind *unsere* Omas.         |     To jsou *naše* babičky.      |     |
 |     |       Dort stehen *ihre* Freunde.       |   Tam stojí *jejich* kamarádi.   |     |
+
 
 ---
 # Wortschatz - 11.L /1
