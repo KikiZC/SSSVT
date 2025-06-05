@@ -1,18 +1,33 @@
+# Perfektum
+| Německy                  | Česky            |
+| ------------------------ | ---------------- |
+| Aufwachen                | vzbudit se       |
+| Aufstehen                | vstát            |
+| Das Bett machen          | ustlat si postel |
+| Sich das Gesicht waschen | umýt si tvář     |
+| Sich die Haare kämmen    | učesat se        |
+| Sich die Zähne putzen    | vyčistit si zuby |
+| Sich anziehen            | obléct se        |
+| In die Schule kommen     | přijít do školy  |
+| Auf den Bus warten       | čekat na autobus |
+| Turnen                   | cvičit           |
+| Mit dem Bus fahren       | jet autobusem    |
+| Den Zug verpassen        | zmeškat vlak     |
 # Přivlastňovací zájmena
-| Rod |              Německá verze              |           Česká verze            |
-|:---:|:---------------------------------------:|:--------------------------------:|
-|     |               *ihrem* Opa               |        *jejímu* dědečkovi        |
-|     |             *meinen* Söhnen             |           *mým* synům            |
-|     |        Ich sehe *deinen* Bruder.        |      Vidím *tvého* bratra.       |
-|     |    Zeig die Aufgabe *deiner* Mutter!    |    Ukaž tu úlohu *své* matce!    |
-|     |          Ist das *euer* Hund?           |         Je to *váš* pes?         |
-|     |        Hier wohnt *unsere* Oma.         |    Tady bydlí *naše* babička.    |
-|     |      Sagt ihr das *euren* Kindern?      |    Řeknete to *našim* dětem?     |
-|     |     Ist das *ihr* Buch, Herr Novak?     | Je to *vaše* kniha, pane Nováku? |
-|     |  Das Geschenk gefällt *seinem* Onkel.   | Ten dárek se líbí *jeho* strýci. |
-|     | Ich spreche gern mit *ihrer* Schwester. |  Mluvím ráda s *její* sestrou.   |
-|     |         Das sind *unsere* Omas.         |     To jsou *naše* babičky.      |
-|     |       Dort stehen *ihre* Freunde.       |   Tam stojí *jejich* kamarádi.   | 
+| Rod |              Německá verze              |           Česká verze            |     |
+| :-: | :-------------------------------------: | :------------------------------: | --- |
+|     |               *ihrem* Opa               |        *jejímu* dědečkovi        |     |
+|     |             *meinen* Söhnen             |           *mým* synům            |     |
+|     |        Ich sehe *deinen* Bruder.        |      Vidím *tvého* bratra.       |     |
+|     |    Zeig die Aufgabe *deiner* Mutter!    |    Ukaž tu úlohu *své* matce!    |     |
+|     |          Ist das *euer* Hund?           |         Je to *váš* pes?         |     |
+|     |        Hier wohnt *unsere* Oma.         |    Tady bydlí *naše* babička.    |     |
+|     |      Sagt ihr das *euren* Kindern?      |    Řeknete to *našim* dětem?     |     |
+|     |     Ist das *ihr* Buch, Herr Novak?     | Je to *vaše* kniha, pane Nováku? |     |
+|     |  Das Geschenk gefällt *seinem* Onkel.   | Ten dárek se líbí *jeho* strýci. |     |
+|     | Ich spreche gern mit *ihrer* Schwester. |  Mluvím ráda s *její* sestrou.   |     |
+|     |         Das sind *unsere* Omas.         |     To jsou *naše* babičky.      |     |
+|     |       Dort stehen *ihre* Freunde.       |   Tam stojí *jejich* kamarádi.   |     |
 
 ---
 # Wortschatz - 11.L /1
