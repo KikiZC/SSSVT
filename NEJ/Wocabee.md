@@ -1,4 +1,20 @@
 # Perfektum
+
+| Rod |     Německá verze      |    Česká verze     |
+| :-: | :--------------------: | :----------------: |
+|     |    Einkaufen gehen     |   Jít nakupovat    |
+|     |      Bücher lesen      |     Číst knihy     |
+|     |    Eine Pause haben    |   Mít přestávku    |
+|     |  Mit Freunden spielen  | Hrát si s kamarády |
+|     |    Fußball spielen     |    Hrát fotbal     |
+|     | In die Turnhalle gehen | Jít do tělocvičny  |
+|     |      Joggen gehen      |     Jít běhat      |
+|     |     Ein Buch lesen     |     Číst knihu     |
+|     |      Frühstücken       |       Snídat       |
+|     |    Zu Mittag essen     |      Obědvat       |
+|     |     Zu Abend essen     |      Večeřet       |
+|     |        Duschen         |    Sprchovat se    |
+
 | Rod |      Německá verze       |   Česká verze    |
 | :-: | :----------------------: | :--------------: |
 |     |        Aufwachen         |    Vzbudit se    |
