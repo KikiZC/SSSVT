@@ -1,18 +1,50 @@
+# Perfektum
+
+| Rod |     Německá verze      |    Česká verze     |
+| :-: | :--------------------: | :----------------: |
+|     |    Einkaufen gehen     |   Jít nakupovat    |
+|     |      Bücher lesen      |     Číst knihy     |
+|     |    Eine Pause haben    |   Mít přestávku    |
+|     |  Mit Freunden spielen  | Hrát si s kamarády |
+|     |    Fußball spielen     |    Hrát fotbal     |
+|     | In die Turnhalle gehen | Jít do tělocvičny  |
+|     |      Joggen gehen      |     Jít běhat      |
+|     |     Ein Buch lesen     |     Číst knihu     |
+|     |      Frühstücken       |       Snídat       |
+|     |    Zu Mittag essen     |      Obědvat       |
+|     |     Zu Abend essen     |      Večeřet       |
+|     |        Duschen         |    Sprchovat se    |
+
+| Rod |      Německá verze       |   Česká verze    |
+| :-: | :----------------------: | :--------------: |
+|     |        Aufwachen         |    Vzbudit se    |
+|     |        Aufstehen         |      Vstát       |
+|     |     Das Bett machen      | Ustlat si postel |
+|     | Sich das Gesicht waschen |   Umýt si tvář   |
+|     |  Sich die Haare kämmen   |    Učesat se     |
+|     |  Sich die Zähne putzen   | Vyčistit si zuby |
+|     |      Sich anziehen       |    Obléct se     |
+|     |   In die Schule kommen   | Přijít do školy  |
+|     |    Auf den Bus warten    | Čekat na autobus |
+|     |          Turnen          |      Cvičit      |
+|     |    Mit dem Bus fahren    |  Jet autobusem   |
+|     |    Den Zug verpassen     |   Zmeškat vlak   |
 # Přivlastňovací zájmena
-| Rod |              Německá verze              |           Česká verze            |
-|:---:|:---------------------------------------:|:--------------------------------:|
-|     |               *ihrem* Opa               |        *jejímu* dědečkovi        |
-|     |             *meinen* Söhnen             |           *mým* synům            |
-|     |        Ich sehe *deinen* Bruder.        |      Vidím *tvého* bratra.       |
-|     |    Zeig die Aufgabe *deiner* Mutter!    |    Ukaž tu úlohu *své* matce!    |
-|     |          Ist das *euer* Hund?           |         Je to *váš* pes?         |
-|     |        Hier wohnt *unsere* Oma.         |    Tady bydlí *naše* babička.    |
-|     |      Sagt ihr das *euren* Kindern?      |    Řeknete to *našim* dětem?     |
-|     |     Ist das *ihr* Buch, Herr Novak?     | Je to *vaše* kniha, pane Nováku? |
-|     |  Das Geschenk gefällt *seinem* Onkel.   | Ten dárek se líbí *jeho* strýci. |
-|     | Ich spreche gern mit *ihrer* Schwester. |  Mluvím ráda s *její* sestrou.   |
-|     |         Das sind *unsere* Omas.         |     To jsou *naše* babičky.      |
-|     |       Dort stehen *ihre* Freunde.       |   Tam stojí *jejich* kamarádi.   | 
+| Rod |              Německá verze              |           Česká verze            |     |
+| :-: | :-------------------------------------: | :------------------------------: | --- |
+|     |               *ihrem* Opa               |        *jejímu* dědečkovi        |     |
+|     |             *meinen* Söhnen             |           *mým* synům            |     |
+|     |        Ich sehe *deinen* Bruder.        |      Vidím *tvého* bratra.       |     |
+|     |    Zeig die Aufgabe *deiner* Mutter!    |    Ukaž tu úlohu *své* matce!    |     |
+|     |          Ist das *euer* Hund?           |         Je to *váš* pes?         |     |
+|     |        Hier wohnt *unsere* Oma.         |    Tady bydlí *naše* babička.    |     |
+|     |      Sagt ihr das *euren* Kindern?      |    Řeknete to *našim* dětem?     |     |
+|     |     Ist das *ihr* Buch, Herr Novak?     | Je to *vaše* kniha, pane Nováku? |     |
+|     |  Das Geschenk gefällt *seinem* Onkel.   | Ten dárek se líbí *jeho* strýci. |     |
+|     | Ich spreche gern mit *ihrer* Schwester. |  Mluvím ráda s *její* sestrou.   |     |
+|     |         Das sind *unsere* Omas.         |     To jsou *naše* babičky.      |     |
+|     |       Dort stehen *ihre* Freunde.       |   Tam stojí *jejich* kamarádi.   |     |
+
 
 ---
 # Wortschatz - 11.L /1
