@@ -11,7 +11,7 @@ listen-on port 53 { 50.20.30.1; };
 ```
 zde si definujeme ze které sítě se můžeme ptát, popř. any => můžeme se ptát odkudkoliv
 ```bash
-allow-query { 50.20.30.0/24; any; }
+allow-query { 50.20.30.0/24; any; };
 ```
 
 3) poté si dole nadefinujeme svoje zóny
@@ -19,13 +19,13 @@ allow-query { 50.20.30.0/24; any; }
 zone "jdeto.sps" IN {
 	type master;
 	file "dopred";
-}
+};
 ```
 ```bash
 zone "30.20.50.in-addr.arpa" IN {
 	type master;
 	file "zpet";
-}
+};
 ```
 
 4)      Ve /var/named si zkopírujeme named.localhost a přejmenujeme na jmeno které jsme napsali ve 3)
@@ -85,7 +85,7 @@ listen-on port 53 { 50.20.30.1; };
 ```
 zde si definujeme ze které sítě se můžeme ptát, popř. any => můžeme se ptát odkudkoliv
 ```bash
-allow-query { 50.20.30.0/24; any; }
+allow-query { 50.20.30.0/24; any; };
 ```
 poté si dole nadefinujeme svoje zóny
 ```bash
@@ -93,14 +93,14 @@ zone "jdeto.sps" IN {
 	type slave;
 	masters { 50.20.30.1; };
 	file "slaves/dopred";
-}
+};
 ```
 ```bash
 zone "30.20.50.in-addr.arpa" IN {
 	type slave;
 	masters { 50.20.30.1; };
 	file "slaves/zpet";
-}
+};
 ```
 
 ### Na primárním
@@ -113,7 +113,7 @@ zone "jdeto.sps" IN {
 	file "dopred";
 	allow-transfer { 50.20.30.2; };
 	notify yes;
-}
+};
 ```
 ```bash
 zone "30.20.50.in-addr.arpa" IN {
@@ -121,7 +121,7 @@ zone "30.20.50.in-addr.arpa" IN {
 	file "zpet";
 	allow-transfer { 50.20.30.2; };
 	notify yes;
-}
+};
 ```
 
 při více adresách stačí přidat se středníkem další
