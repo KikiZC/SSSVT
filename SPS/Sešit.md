@@ -1,6 +1,14 @@
 ``` timeline-labeled
 [line-3, body-4]
 
+date: 175, 176
+title: Souborná práce 2 - DNS
+content: [[SPS/Souborná práce 2]] [[DNS Linux]]
+
+date: 173, 174
+title: Souborná práce 2 - DNS
+content: [[SPS/Souborná práce 2]] [[DNS Linux]]
+
 date: 171, 172
 title: Souborná práce 2 / Rozbor testu
 content: [[SPS/Souborná práce 2]]
