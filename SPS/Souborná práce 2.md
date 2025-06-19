@@ -43,3 +43,19 @@ Modrá = 3. podsíť
 - Modrá podsíť:
 	- LS1 - 10.20.31.1 /25
 	- LS2 - 10.20.30.2 /25
+
+## 2) Obsahy 
+WS1:
+- Směrování
+- DNS
+- IIS
+- AD
+	- konec.sps
+	- uživatel Test
+
+WS2:
+- Směrování
+- DHCP
+- APACHE na IP
+
+LST1 je Linux server přepsán na LS3
