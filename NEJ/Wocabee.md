@@ -2,7 +2,7 @@
 | Rod |           Německá verze           |        Česká verze        |
 | :-: | :-------------------------------: | :-----------------------: |
 |     |              bummeln              |   potulovat se, lenošit   |
-|     |      einen Ratschlag geben.       |         dát radu          |
+|     |       einen Ratchlag geben.       |         dát radu          |
 |     |      Hat es dir geschmeckt?       |      Chutnalo ti to?      |
 |     |             schmecken             |          chutnat          |
 |     |     Er hat das Buch gebracht.     |     Donesl tu knihu.      |
