@@ -1,3 +1,35 @@
+# 12. Lektion
+| Rod |           Německá verze           |        Česká verze        |
+| :-: | :-------------------------------: | :-----------------------: |
+|     |              bummeln              |   potulovat se, lenošit   |
+|     |       einen Ratchlag geben.       |         dát radu          |
+|     |      Hat es dir geschmeckt?       |      Chutnalo ti to?      |
+|     |             schmecken             |          chutnat          |
+|     |     Er hat das Buch gebracht.     |     Donesl tu knihu.      |
+|     | Warum musst du immer übertreiben? | Proč musíš vždy přehánět? |
+|     |             abwaschen             |       umývat nádobí       |
+|     |          Geschirr spülen          | umývat, opláchnout nádobí |
+|     |         den Staub saugen          |       vysávat prach       |
+|     |         den Staub wischen         |       utírat prach        |
+|     |              füttern              |           krmit           |
+|     | Ich habe mein Zimmer aufgeräumt.  |  Uklidil jsem si pokoj.   |
+
+# Perfektum II.
+| Rod |              Německá verze               |               Česká verze                |
+| :-: | :--------------------------------------: | :--------------------------------------: |
+|     |        Ich habe es nicht gewusst.        |             Nevěděl jsem to.             |
+|     |        Ich habe ihm geschrieben.         |             Napsala jsem mu.             |
+|     |  Warum hast du davon nicht gesprochen.   |         Proč jsi o tom nemluvil?         |
+|     |        Hast du dich entschuldigt?        |               Omluvil ses?               |
+|     |     Er hat es leider nicht gekonnt.      |            Bohužel to neuměl.            |
+|     |  Am Abend haben wir lange ferngesehen.   | Večer jsme se dlouho dívali na televizi. |
+|     |     Ich habe mir den Fuß gebrochen.      |           Zlomil jsem si nohu.           |
+|     |         Es ist gestern passiert.         |            Stalo se to včera.            |
+|     |       Es ist am Samstag geschehen.       |        Přihodilo se to v sobotu.         |
+|     |    Sie ist in die U-Bahn umgestiegen.    |          Přestoupila do metra.           |
+|     | Sie haben darüber nicht sprechen dürfen. |          Nesměli o tom mluvit.           |
+|     | Um wieviel bist du gestern eingeschlafe? |         V kolik jsi včera usnul?         |
+
 # Perfektum
 
 | Rod |     Německá verze      |    Česká verze     |
