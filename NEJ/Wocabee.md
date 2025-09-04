@@ -1,18 +1,82 @@
+# 12. Lektion
+| Rod |           Německá verze           |        Česká verze        |
+| :-: | :-------------------------------: | :-----------------------: |
+|     |              bummeln              |   potulovat se, lenošit   |
+|     |       einen Ratchlag geben.       |         dát radu          |
+|     |      Hat es dir geschmeckt?       |      Chutnalo ti to?      |
+|     |             schmecken             |          chutnat          |
+|     |     Er hat das Buch gebracht.     |     Donesl tu knihu.      |
+|     | Warum musst du immer übertreiben? | Proč musíš vždy přehánět? |
+|     |             abwaschen             |       umývat nádobí       |
+|     |          Geschirr spülen          | umývat, opláchnout nádobí |
+|     |         den Staub saugen          |       vysávat prach       |
+|     |         den Staub wischen         |       utírat prach        |
+|     |              füttern              |           krmit           |
+|     | Ich habe mein Zimmer aufgeräumt.  |  Uklidil jsem si pokoj.   |
+
+# Perfektum II.
+| Rod |              Německá verze               |               Česká verze                |
+| :-: | :--------------------------------------: | :--------------------------------------: |
+|     |        Ich habe es nicht gewusst.        |             Nevěděl jsem to.             |
+|     |        Ich habe ihm geschrieben.         |             Napsala jsem mu.             |
+|     |  Warum hast du davon nicht gesprochen.   |         Proč jsi o tom nemluvil?         |
+|     |        Hast du dich entschuldigt?        |               Omluvil ses?               |
+|     |     Er hat es leider nicht gekonnt.      |            Bohužel to neuměl.            |
+|     |  Am Abend haben wir lange ferngesehen.   | Večer jsme se dlouho dívali na televizi. |
+|     |     Ich habe mir den Fuß gebrochen.      |           Zlomil jsem si nohu.           |
+|     |         Es ist gestern passiert.         |            Stalo se to včera.            |
+|     |       Es ist am Samstag geschehen.       |        Přihodilo se to v sobotu.         |
+|     |    Sie ist in die U-Bahn umgestiegen.    |          Přestoupila do metra.           |
+|     | Sie haben darüber nicht sprechen dürfen. |          Nesměli o tom mluvit.           |
+|     | Um wieviel bist du gestern eingeschlafe? |         V kolik jsi včera usnul?         |
+
+# Perfektum
+
+| Rod |     Německá verze      |    Česká verze     |
+| :-: | :--------------------: | :----------------: |
+|     |    Einkaufen gehen     |   Jít nakupovat    |
+|     |      Bücher lesen      |     Číst knihy     |
+|     |    Eine Pause haben    |   Mít přestávku    |
+|     |  Mit Freunden spielen  | Hrát si s kamarády |
+|     |    Fußball spielen     |    Hrát fotbal     |
+|     | In die Turnhalle gehen | Jít do tělocvičny  |
+|     |      Joggen gehen      |     Jít běhat      |
+|     |     Ein Buch lesen     |     Číst knihu     |
+|     |      Frühstücken       |       Snídat       |
+|     |    Zu Mittag essen     |      Obědvat       |
+|     |     Zu Abend essen     |      Večeřet       |
+|     |        Duschen         |    Sprchovat se    |
+
+| Rod |      Německá verze       |   Česká verze    |
+| :-: | :----------------------: | :--------------: |
+|     |        Aufwachen         |    Vzbudit se    |
+|     |        Aufstehen         |      Vstát       |
+|     |     Das Bett machen      | Ustlat si postel |
+|     | Sich das Gesicht waschen |   Umýt si tvář   |
+|     |  Sich die Haare kämmen   |    Učesat se     |
+|     |  Sich die Zähne putzen   | Vyčistit si zuby |
+|     |      Sich anziehen       |    Obléct se     |
+|     |   In die Schule kommen   | Přijít do školy  |
+|     |    Auf den Bus warten    | Čekat na autobus |
+|     |          Turnen          |      Cvičit      |
+|     |    Mit dem Bus fahren    |  Jet autobusem   |
+|     |    Den Zug verpassen     |   Zmeškat vlak   |
 # Přivlastňovací zájmena
-| Rod |              Německá verze              |           Česká verze            |
-|:---:|:---------------------------------------:|:--------------------------------:|
-|     |               *ihrem* Opa               |        *jejímu* dědečkovi        |
-|     |             *meinen* Söhnen             |           *mým* synům            |
-|     |        Ich sehe *deinen* Bruder.        |      Vidím *tvého* bratra.       |
-|     |    Zeig die Aufgabe *deiner* Mutter!    |    Ukaž tu úlohu *své* matce!    |
-|     |          Ist das *euer* Hund?           |         Je to *váš* pes?         |
-|     |        Hier wohnt *unsere* Oma.         |    Tady bydlí *naše* babička.    |
-|     |      Sagt ihr das *euren* Kindern?      |    Řeknete to *našim* dětem?     |
-|     |     Ist das *ihr* Buch, Herr Novak?     | Je to *vaše* kniha, pane Nováku? |
-|     |  Das Geschenk gefällt *seinem* Onkel.   | Ten dárek se líbí *jeho* strýci. |
-|     | Ich spreche gern mit *ihrer* Schwester. |  Mluvím ráda s *její* sestrou.   |
-|     |         Das sind *unsere* Omas.         |     To jsou *naše* babičky.      |
-|     |       Dort stehen *ihre* Freunde.       |   Tam stojí *jejich* kamarádi.   | 
+| Rod |              Německá verze              |           Česká verze            |     |
+| :-: | :-------------------------------------: | :------------------------------: | --- |
+|     |               *ihrem* Opa               |        *jejímu* dědečkovi        |     |
+|     |             *meinen* Söhnen             |           *mým* synům            |     |
+|     |        Ich sehe *deinen* Bruder.        |      Vidím *tvého* bratra.       |     |
+|     |    Zeig die Aufgabe *deiner* Mutter!    |    Ukaž tu úlohu *své* matce!    |     |
+|     |          Ist das *euer* Hund?           |         Je to *váš* pes?         |     |
+|     |        Hier wohnt *unsere* Oma.         |    Tady bydlí *naše* babička.    |     |
+|     |      Sagt ihr das *euren* Kindern?      |    Řeknete to *našim* dětem?     |     |
+|     |     Ist das *ihr* Buch, Herr Novak?     | Je to *vaše* kniha, pane Nováku? |     |
+|     |  Das Geschenk gefällt *seinem* Onkel.   | Ten dárek se líbí *jeho* strýci. |     |
+|     | Ich spreche gern mit *ihrer* Schwester. |  Mluvím ráda s *její* sestrou.   |     |
+|     |         Das sind *unsere* Omas.         |     To jsou *naše* babičky.      |     |
+|     |       Dort stehen *ihre* Freunde.       |   Tam stojí *jejich* kamarádi.   |     |
+
 
 ---
 # Wortschatz - 11.L /1
