@@ -1,11 +1,19 @@
 # Perfektum
-| Rod |     Německá verze     | Česká verze  |
-| :-: | :-------------------: | :----------: |
-|     |   ich bin gefahren    |   jel jsem   |
-|     |    sie hat gelesen    |    četla     |
-|     |    er hat gebracht    |   přinesl    |
-|     | sie haben geschrieben |   napsali    |
-|     |   wir haben gedacht   | mysleli jsme |
+| Rod |             Německá verze             |      Česká verze      |
+| :-: | :-----------------------------------: | :-------------------: |
+|     |           ich bin gefahren            |       jel jsem        |
+|     |            sie hat gelesen            |         četla         |
+|     |            er hat gebracht            |        přinesl        |
+|     |         sie haben geschrieben         |        napsali        |
+|     |           wir haben gedacht           |     mysleli jsme      |
+|     |      Ich habe Kaffee getrunken.       |   Vypila jsem kávu.   |
+|     |       Er hat das nicht gewusst.       |      Nevěděl to.      |
+|     |          sie haben gesungen           |        zpívali        |
+|     |       sie hat nicht gesprochen        |       nemluvila       |
+|     |           Sie sind gerannt.           |      Pádil jste.      |
+|     |     Sie hat schlecht geschlafen.      |     Špatně spala.     |
+|     | Er hat bei uns drei Wochen geblieben. | Zůstal u nás tři dny. |
+|     |  Wo bist du den ganzen Tag gewesen:   | Kde jsi byl celý den? |
 # Wortschatz (14.Lektion)
 | Rod | Německá verze  | Česká verze |
 | :-: | :------------: | :---------: |
