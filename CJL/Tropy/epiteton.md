@@ -1,0 +1,1 @@
+básnický přívlastek

@@ -1,10 +1,10 @@
 ## 1 Literární epochy, směry, proudy, hnutí a skupiny
 
-- [ ] Antika
+- [x] Antika
 
-- [ ] Středověk
+- [x] Středověk
 
-- [ ] Renesance a humanismus
+- [x] Renesance a humanismus
 
 - [ ] Baroko
 
@@ -53,19 +53,19 @@
 
 ### Světová literatura do konce 18. století
 
-- [ ] Epos o Gilgamešovi
+- [x] Epos o Gilgamešovi
 
-- [ ] Bible (Starý zákon a Nový zákon)
+- [x] Bible (Starý zákon a Nový zákon)
 
-- [ ] HOMÉR
+- [x] HOMÉR
 
-- [ ] EZOP
+- [x] EZOP
 
-- [ ] SOFOKLES
+- [x] SOFOKLES
 
-- [ ] OVIDIUS
+- [x] OVIDIUS
 
-- [ ] Píseň o Rolandovi
+- [x] Píseň o Rolandovi
 
 - [x] DANTE ALIGHIERI
 
@@ -79,13 +79,13 @@
 
 - [x] WILLIAM SHAKESPEARE
 
-- [ ] MOLIÈRE
+- [x] MOLIÈRE
 
 - [ ] DANIEL DEFOE
 
 - [ ] JONATHAN SWIFT
 
-- [ ] VOLTAIRE
+- [x] VOLTAIRE
 
 - [ ] JOHANN WOLFGANG GOETHE
 
@@ -323,7 +323,7 @@
 
 - [ ] kaligram
 
-- [ ] komedie
+- [x] komedie
 
 - [ ] kronika
 
@@ -355,4 +355,4 @@
 
 - [x] romance
 
-- [ ] tragédie
+- [x] tragédie

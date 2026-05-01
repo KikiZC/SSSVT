@@ -1,0 +1,1 @@
+opakování stejné hlásky nebo skupiny hlásek

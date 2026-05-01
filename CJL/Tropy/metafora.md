@@ -1,0 +1,1 @@
+obrazné přenesení významu na základě podobnosti

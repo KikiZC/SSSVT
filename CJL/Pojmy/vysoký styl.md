@@ -1,0 +1,1 @@
+Vysoký styl je slavnostní, reprezentativní způsob vyjadřování (jazykový registr) či uměleckého ztvárnění, který využívá knižní, archaické nebo básnické výrazy

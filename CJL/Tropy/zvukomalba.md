@@ -1,0 +1,1 @@
+seskupení a opakování hlásek tak aby připomínaly zvuk
