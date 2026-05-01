@@ -305,19 +305,19 @@
 
 ## 3 Literární žánry
 
-- [ ] anekdota
+- [x] anekdota
 
-- [ ] bajka
+- [x] bajka
 
-- [ ] balada
+- [x] balada
 
 - [ ] cestopis
 
-- [ ] elegie
+- [x] elegie
 
 - [ ] epigram
 
-- [ ] epos
+- [x] epos
 
 - [ ] fantasy
 
@@ -327,32 +327,32 @@
 
 - [ ] kronika
 
-- [ ] legenda
+- [x] legenda
 
-- [ ] mýtus
+- [x] mýtus
 
-- [ ] novela
+- [x] novela
 
-- [ ] óda
+- [x] óda
 
 - [ ] pásmo
 
-- [ ] píseň
+- [x] píseň
 
-- [ ] poema
+- [x] poema
 
-- [ ] pohádka
+- [x] pohádka
 
-- [ ] pověst
+- [x] pověst
 
-- [ ] povídka
+- [x] povídka
 
-- [ ] román
+- [x] román
 
 - [ ] sci-fi
 
 - [x] sonet
 
-- [ ] romance
+- [x] romance
 
 - [ ] tragédie

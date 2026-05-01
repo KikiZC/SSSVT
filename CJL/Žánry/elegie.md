@@ -1,0 +1,3 @@
+=žalozpěv
+vyjadřuje smutek ze ztráty bytosti, vlasti, domova...
+vznik v [[Antika|Antice]]

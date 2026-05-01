@@ -1,0 +1,3 @@
+=chvalozpěv
+opak [[elegie]]
+oslava bohů, hrdinů...

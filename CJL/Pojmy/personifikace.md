@@ -1,0 +1,1 @@
+přiřazování lidských vlastností neživým věcem, či zvířatům
